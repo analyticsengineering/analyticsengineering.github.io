@@ -1,4 +1,25 @@
  body {
   background-color: #073642;
+  color: #586e75;
+  
+}
+
+
+a:link {
   color: #268bd2;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
 }
