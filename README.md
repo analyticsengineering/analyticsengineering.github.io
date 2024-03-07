@@ -1,4 +1,4 @@
-# Analytics Engineering Mailing List Archive
+# [Analytics Engineering Mailing List](https://analyticsengineering.net/mailman/listinfo/wranglers) Archive
 
 |Archive| 	View by|
 |-------|----------|
