@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Analytics Engineering] Google BigQuery adds support for GROUP BY ALL
+   </TITLE><link rel="stylesheet" href="https://archive.analyticsengineering.net/solarized-dark.css">
+   <LINK REL="Index" HREF="index.html" >
+   <LINK REL="made" HREF="mailto:wranglers%40analyticsengineering.net?Subject=Re%3A%20%5BWranglers%5D%20Google%20BigQuery%20adds%20support%20for%20GROUP%20BY%20ALL&In-Reply-To=%3CCABDm0O_t_4b3JMqQ%2BX%3D%3DajZCA8f7nw4B4_NSKf3fOTK699r6Rw%40mail.gmail.com%3E">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000008.html">
+   
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Analytics Engineering] Google BigQuery adds support for GROUP BY ALL</H1>
+    <B>Ali, Saqib</B> 
+    <A HREF="mailto:wranglers%40analyticsengineering.net?Subject=Re%3A%20%5BWranglers%5D%20Google%20BigQuery%20adds%20support%20for%20GROUP%20BY%20ALL&In-Reply-To=%3CCABDm0O_t_4b3JMqQ%2BX%3D%3DajZCA8f7nw4B4_NSKf3fOTK699r6Rw%40mail.gmail.com%3E"
+       TITLE="[Wranglers] Google BigQuery adds support for GROUP BY ALL">docbook.xml at gmail.com
+       </A><BR>
+    <I>Thu Mar  7 04:23:44 UTC 2024</I>
+    <P><UL>
+        <LI>Previous message (by thread): <A HREF="000008.html">[Wranglers] dbt_assertions package by AxelThevenot
+</A></li>
+        
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#9">[ date ]</a>
+              <a href="thread.html#9">[ thread ]</a>
+              <a href="subject.html#9">[ subject ]</a>
+              <a href="author.html#9">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Google BigQuery now supports GROUP BY ALL clause. This clause infers groups
+by excluding:
+
+1) expressions that are aggregate functions e.g. avg(), sum()
+2) expressions that are windowing functions. e.g. COUNT(*) OVER ()
+
+Support for GROUP BY ALL was also added to Snowflake late last year. I have
+been using it quite frequently in Snowflake, especially for adhoc
+exploratory queries. It makes writing exploratory queries a lot faster.
+
+Sincerely,
+Saqib
+<A HREF="https://qosf.com">https://qosf.com</A>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="https://analyticsengineering.net/pipermail/wranglers/attachments/20240306/5d0e340e/attachment.htm">https://analyticsengineering.net/pipermail/wranglers/attachments/20240306/5d0e340e/attachment.htm</A>&gt;
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message (by thread): <A HREF="000008.html">[Wranglers] dbt_assertions package by AxelThevenot
+</A></li>
+	
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#9">[ date ]</a>
+              <a href="thread.html#9">[ thread ]</a>
+              <a href="subject.html#9">[ subject ]</a>
+              <a href="author.html#9">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://analyticsengineering.net/mailman/listinfo/wranglers">More information about the Wranglers
+mailing list</a><br>
+</body></html>
