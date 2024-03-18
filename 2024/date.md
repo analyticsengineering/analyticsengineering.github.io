@@ -41,7 +41,7 @@ The Wranglers 2024 Archive by date
 *Ali, Saqib** [[Wranglers] Accurate estimation of the costs of each SQL statement in Snowflake](000017.html)
 *Ali, Saqib** [[Wranglers] Snowflake Roles 101: Comprehensive Guide to Access Control](000018.html)
 *Ali, Saqib** [[Wranglers] A Goldilocks Story: How Snowflake automatically optimizes micro-partition size for "just right" query performance](000019.html)
-*Ali, Saqib** [[Wranglers] Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage | by John Ryan | Snowflake | Feb, 2024 | Medium](000020.html)
+*Ali, Saqib** [[Wranglers] Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage \| by John Ryan \| Snowflake \| Feb, 2024 \| Medium](000020.html)
 *Ali, Saqib** [[Wranglers] Now you can execute an Azure Function in response to a data change event Azure SQL DB Table](000021.html)
 *Ali, Saqib*
 
