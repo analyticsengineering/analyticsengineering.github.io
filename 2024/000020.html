@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Analytics Engineering] Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage | by John Ryan | Snowflake | Feb, 2024 | Medium
+   </TITLE><link rel="stylesheet" href="https://archive.analyticsengineering.net/solarized-dark.css">
+   <LINK REL="Index" HREF="index.html" >
+   <LINK REL="made" HREF="mailto:wranglers%40analyticsengineering.net?Subject=Re%3A%20%5BWranglers%5D%20Turbo-charge%20Snowflake%20Query%20Performance%20by%20Avoiding%0A%20Spilling%20to%20Storage%20%7C%20by%20John%20Ryan%20%7C%20Snowflake%20%7C%20Feb%2C%202024%20%7C%20Medium&In-Reply-To=%3CCABDm0O8C7ZXECsnzmkmrN1mRLKvos9AsntpqZoVE0CnkjSfr1w%40mail.gmail.com%3E">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000019.html">
+   
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Analytics Engineering] Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage | by John Ryan | Snowflake | Feb, 2024 | Medium</H1>
+    <B>Ali, Saqib</B> 
+    <A HREF="mailto:wranglers%40analyticsengineering.net?Subject=Re%3A%20%5BWranglers%5D%20Turbo-charge%20Snowflake%20Query%20Performance%20by%20Avoiding%0A%20Spilling%20to%20Storage%20%7C%20by%20John%20Ryan%20%7C%20Snowflake%20%7C%20Feb%2C%202024%20%7C%20Medium&In-Reply-To=%3CCABDm0O8C7ZXECsnzmkmrN1mRLKvos9AsntpqZoVE0CnkjSfr1w%40mail.gmail.com%3E"
+       TITLE="[Wranglers] Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage | by John Ryan | Snowflake | Feb, 2024 | Medium">docbook.xml at gmail.com
+       </A><BR>
+    <I>Sun Mar 17 13:58:41 UTC 2024</I>
+    <P><UL>
+        <LI>Previous message (by thread): <A HREF="000019.html">[Wranglers] A Goldilocks Story: How Snowflake automatically optimizes micro-partition size for &quot;just right&quot; query performance
+</A></li>
+        
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#20">[ date ]</a>
+              <a href="thread.html#20">[ thread ]</a>
+              <a href="subject.html#20">[ subject ]</a>
+              <a href="author.html#20">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>A nice blog post by John Ryan on how to turbo-charge Query Performance in
+Snowflake by avoiding spilling to storage:
+<A HREF="https://medium.com/snowflake/turbo-charge-snowflake-query-performance-by-avoiding-spilling-to-storage-d693def762c2">https://medium.com/snowflake/turbo-charge-snowflake-query-performance-by-avoiding-spilling-to-storage-d693def762c2</A>
+
+However this strategy must be used with care, lest you consume a lot of
+Snowflake Credits with nominal query performance improvement. One case I
+recently ran into was JOINing to a history table which did not have a
+Cluster Key defined on the as_of_date field that was being used for the
+JOIN. There was spillage to local storage. Moving to a large WH avoided
+Spillage to Local Storage, but the query performance did not improve that
+much. After analyzing the query plan, we noticed the JOIN to the history
+table was taking 60% of the execution time.  We added a Cluster Key on the
+field that was used for the JOIN, and the query time was cut in less than
+half. So just avoiding the Storage Spillage is not enough, you have to
+analyze the query plan to ensure that the JOINs are not causing the
+slowness.
+
+Note that Automatic Clustering was enabled on the history table. But this
+doesn't alway work. If you know the column that is used in the JOINs,
+define that as the Cluster Key on the table.
+
+Saqib
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="https://analyticsengineering.net/pipermail/wranglers/attachments/20240317/aa5de9b2/attachment.htm">https://analyticsengineering.net/pipermail/wranglers/attachments/20240317/aa5de9b2/attachment.htm</A>&gt;
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message (by thread): <A HREF="000019.html">[Wranglers] A Goldilocks Story: How Snowflake automatically optimizes micro-partition size for &quot;just right&quot; query performance
+</A></li>
+	
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#20">[ date ]</a>
+              <a href="thread.html#20">[ thread ]</a>
+              <a href="subject.html#20">[ subject ]</a>
+              <a href="author.html#20">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://analyticsengineering.net/mailman/listinfo/wranglers">More information about the Wranglers
+mailing list</a><br>
+<br/><a href="https://analyticsengineering.net/mailman/listinfo/wranglers">Subscribe to Analytics Engineering mailing list</a></body></html>
