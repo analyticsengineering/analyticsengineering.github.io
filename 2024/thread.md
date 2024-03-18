@@ -60,7 +60,7 @@ The Wranglers 2024 Archive by thread
 *Ali, Saqib*
 * [[Wranglers] A Goldilocks Story: How Snowflake automatically optimizes micro-partition size for "just right" query performance](000019.html)
 *Ali, Saqib*
-* [[Wranglers] Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage | by John Ryan | Snowflake | Feb, 2024 | Medium](000020.html)
+* [[Wranglers] Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage \| by John Ryan \| Snowflake \| Feb, 2024 \| Medium](000020.html)
 *Ali, Saqib*
 * [[Wranglers] Now you can execute an Azure Function in response to a data change event Azure SQL DB Table](000021.html)
 *Ali, Saqib*
