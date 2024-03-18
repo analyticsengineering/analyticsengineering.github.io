@@ -1,7 +1,7 @@
 
 
 
-The Wranglers 2024 Archive by date
+ The Wranglers 2024 Archive by date
 
 
 
