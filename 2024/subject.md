@@ -40,7 +40,7 @@ The Wranglers 2024 Archive by subject
 *Ali, Saqib** [[Wranglers] SqlDBM & dbt Labs workshop on Relational + Transformational Modeling](000007.html)
 *Ali, Saqib** [[Wranglers] Syntactic Sugar: Snowflake Now Supports Trailing Comma for the SELECT Clause](000016.html)
 *Ali, Saqib** [[Wranglers] The Hidden Looker Costs - linking Looker usage data with GCP billing to figure out the cost of a Looker Look](000010.html)
-*Ali, Saqib** [[Wranglers] Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage | by John Ryan | Snowflake | Feb, 2024 | Medium](000020.html)
+*Ali, Saqib** [[Wranglers] Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage \| by John Ryan \| Snowflake \| Feb, 2024 \| Medium](000020.html)
 *Ali, Saqib** [[Wranglers] Walk-through of a Data Vault 2.0 Implementation](000013.html)
 *Ali, Saqib** [[Wranglers] Webinar: Build for scale, agility, and reliability with dbt Cloud, AutomateDV, and Data Vault](000014.html)
 *Ali, Saqib*
