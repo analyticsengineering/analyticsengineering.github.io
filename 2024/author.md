@@ -1,7 +1,7 @@
 
 
 
-The Wranglers 2024 Archive by author
+ The Wranglers 2024 Archive by author
 
 
 
