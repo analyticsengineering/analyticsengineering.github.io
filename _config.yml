@@ -5,7 +5,7 @@ titles_from_headings:
   strip_title: true
 
 header_pages:
-  - blog.html
+  - 2024/thread.md
   
 remote_theme: jekyll/minima
 minima:
