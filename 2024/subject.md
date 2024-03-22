@@ -17,9 +17,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Tue Mar 19 20:51:27 UTC 2024*  
+**Ending:** *Thu Mar 21 20:58:55 UTC 2024*  
 
-**Messages:** 23
+**Messages:** 24
 * [[Wranglers] Accurate estimation of the costs of each SQL statement in Snowflake](000017.html)
 *Ali, Saqib** [[Wranglers] A Goldilocks Story: How Snowflake automatically optimizes micro-partition size for "just right" query performance](000019.html)
 *Ali, Saqib** [[Wranglers] Call for Speakers for the 2024 Analytics Engineering conference](000004.html)
@@ -31,6 +31,7 @@
 *Ali, Saqib** [[Wranglers] Google BigQuery adds support for GROUP BY ALL](000009.html)
 *Ali, Saqib** [[Wranglers] Is there dbt test to check the table is not empty?](000005.html)
 *Ali, Saqib** [[Wranglers] New Table Function RANGE\_SESSIONIZE in Google BigQuery](000022.html)
+*Ali, Saqib** [[Wranglers] New Table Function RANGE\_SESSIONIZE in Google BigQuery](000023.html)
 *Ali, Saqib** [[Wranglers] Now you can execute an Azure Function in response to a data change event Azure SQL DB Table](000021.html)
 *Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000001.html)
 *Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000002.html)
@@ -48,9 +49,9 @@
 
 
 **Last message date:**
-*Tue Mar 19 20:51:27 UTC 2024*  
+*Thu Mar 21 20:58:55 UTC 2024*  
 
-**Archived on:** *Tue Mar 19 20:51:42 UTC 2024*
+**Archived on:** *Thu Mar 21 20:59:11 UTC 2024*
 
 * **Messages sorted by:**
 [[ thread ]](thread.html#start)
