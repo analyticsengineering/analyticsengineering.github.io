@@ -17,9 +17,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Tue Mar 19 20:51:27 UTC 2024*  
+**Ending:** *Thu Mar 21 20:58:55 UTC 2024*  
 
-**Messages:** 23
+**Messages:** 24
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000001.html)
 *Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000002.html)
@@ -43,14 +43,15 @@
 *Ali, Saqib** [[Wranglers] Turbo-charge Snowflake Query Performance by Avoiding Spilling to Storage \| by John Ryan \| Snowflake \| Feb, 2024 \| Medium](000020.html)
 *Ali, Saqib** [[Wranglers] Now you can execute an Azure Function in response to a data change event Azure SQL DB Table](000021.html)
 *Ali, Saqib** [[Wranglers] New Table Function RANGE\_SESSIONIZE in Google BigQuery](000022.html)
+*Ali, Saqib** [[Wranglers] New Table Function RANGE\_SESSIONIZE in Google BigQuery](000023.html)
 *Ali, Saqib*
 
 
 
 **Last message date:**
-*Tue Mar 19 20:51:27 UTC 2024*  
+*Thu Mar 21 20:58:55 UTC 2024*  
 
-**Archived on:** *Tue Mar 19 20:51:42 UTC 2024*
+**Archived on:** *Thu Mar 21 20:59:11 UTC 2024*
 
 * **Messages sorted by:**
 [[ thread ]](thread.html#start)
