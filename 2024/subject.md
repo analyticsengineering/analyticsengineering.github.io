@@ -17,15 +17,16 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Thu Mar 21 20:58:55 UTC 2024*  
+**Ending:** *Sat Mar 23 14:02:52 UTC 2024*  
 
-**Messages:** 24
+**Messages:** 25
 * [[Wranglers] Accurate estimation of the costs of each SQL statement in Snowflake](000017.html)
 *Ali, Saqib** [[Wranglers] A Goldilocks Story: How Snowflake automatically optimizes micro-partition size for "just right" query performance](000019.html)
 *Ali, Saqib** [[Wranglers] Call for Speakers for the 2024 Analytics Engineering conference](000004.html)
 *Ali, Saqib** [[Wranglers] Course Announcement: Build Your First Data Engineering Project in AWS](000011.html)
 *Ali, Saqib** [[Wranglers] dbt\_assertions package by AxelThevenot](000008.html)
 *Ali, Saqib** [[Wranglers] dbt and Data Vault 2.0 Course by Scalefree](000003.html)
+*Ali, Saqib** [[Wranglers] DBT Contracts and model versioning](000024.html)
 *Ali, Saqib** [[Wranglers] Efficient BigQuery Data Modeling: A Storage and Compute Comparison](000012.html)
 *Ali, Saqib** [[Wranglers] Flattening JSON with a recursive query in BigQuery](000015.html)
 *Ali, Saqib** [[Wranglers] Google BigQuery adds support for GROUP BY ALL](000009.html)
@@ -49,9 +50,9 @@
 
 
 **Last message date:**
-*Thu Mar 21 20:58:55 UTC 2024*  
+*Sat Mar 23 14:02:52 UTC 2024*  
 
-**Archived on:** *Thu Mar 21 20:59:11 UTC 2024*
+**Archived on:** *Sat Mar 23 14:03:08 UTC 2024*
 
 * **Messages sorted by:**
 [[ thread ]](thread.html#start)
