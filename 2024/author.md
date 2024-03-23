@@ -9,10 +9,6 @@
 =======================
 
 
-* **Messages sorted by:**
-[[ thread ]](thread.html#start)
-[[ subject ]](subject.html#start)
-[[ date ]](date.html#start)* **[More info on this list...](https://analyticsengineering.net/mailman/listinfo/wranglers)**
 
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
@@ -21,7 +17,7 @@
 
 **Messages:** 25
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
-* Ali, Saqib [[Wranglers] re-using column properties in DBT yml files](000001.html)
+*Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000001.html)
 *Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000002.html)
 *Ali, Saqib** [[Wranglers] dbt and Data Vault 2.0 Course by Scalefree](000003.html)
 *Ali, Saqib** [[Wranglers] Call for Speakers for the 2024 Analytics Engineering conference](000004.html)
@@ -54,10 +50,6 @@
 
 **Archived on:** *Sat Mar 23 14:03:08 UTC 2024*
 
-* **Messages sorted by:**
-[[ thread ]](thread.html#start)
-[[ subject ]](subject.html#start)
-[[ date ]](date.html#start)* **[More info on this list...](https://analyticsengineering.net/mailman/listinfo/wranglers)**
 
 
 
