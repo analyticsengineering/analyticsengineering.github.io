@@ -9,10 +9,6 @@
 =====================
 
 
-* **Messages sorted by:**
-[[ thread ]](thread.html#start)
-[[ subject ]](subject.html#start)
-[[ author ]](author.html#start)* **[More info on this list...](https://analyticsengineering.net/mailman/listinfo/wranglers)**
 
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
@@ -54,10 +50,6 @@
 
 **Archived on:** *Sat Mar 23 14:03:08 UTC 2024*
 
-* **Messages sorted by:**
-[[ thread ]](thread.html#start)
-[[ subject ]](subject.html#start)
-[[ author ]](author.html#start)* **[More info on this list...](https://analyticsengineering.net/mailman/listinfo/wranglers)**
 
 
 
