@@ -21,7 +21,7 @@
 
 **Messages:** 25
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
-*Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000001.html)
+*Ali, Saqib* [[Wranglers] re-using column properties in DBT yml files](000001.html)
 *Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000002.html)
 *Ali, Saqib** [[Wranglers] dbt and Data Vault 2.0 Course by Scalefree](000003.html)
 *Ali, Saqib** [[Wranglers] Call for Speakers for the 2024 Analytics Engineering conference](000004.html)
