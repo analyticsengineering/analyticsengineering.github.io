@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Sat Mar 23 14:02:52 UTC 2024*  
+**Ending:** *Mon Mar 25 13:51:25 UTC 2024*  
 
-**Messages:** 25
+**Messages:** 26
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -61,13 +61,15 @@
 	+ [[Wranglers] New Table Function RANGE\_SESSIONIZE in Google BigQuery](000023.html)
 	*Ali, Saqib** [[Wranglers] DBT Contracts and model versioning](000024.html)
 *Ali, Saqib*
+* [[Wranglers] Calculating Geometric Mean using SQL](000025.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Sat Mar 23 14:02:52 UTC 2024*  
+*Mon Mar 25 13:51:25 UTC 2024*  
 
-**Archived on:** *Sat Mar 23 14:03:08 UTC 2024*
+**Archived on:** *Mon Mar 25 13:51:42 UTC 2024*
 
 
 
