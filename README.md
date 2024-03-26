@@ -26,7 +26,7 @@ Data is stored in a variety of ways, one of the key deciding factors is in how t
 
 ### Data warehouses
 
-If the data is structured and online analytical processing is required (but not online transaction processing), then Data warehouse|data warehouses are a main choice. They enable data analysis, mining, and artificial intelligence on a much larger scale than databases can allow, and indeed data often flow from databases into data warehouses. Business analyst, data engineers, and data scientists can access data warehouses using tools such as SQL or business intelligence software.
+If the data is structured and online analytical processing is required (but not online transaction processing), then Data warehouse are a main choice. They enable data analysis, mining, and artificial intelligence on a much larger scale than databases can allow, and indeed data often flow from databases into data warehouses. Business analyst, data engineers, and data scientists can access data warehouses using tools such as SQL or business intelligence software.
 
 ### Data lakes 
 A data lake is a centralized repository for storing, processing, and securing large volumes of data. A data lake can contain structured data from Relational database, semi-structured data, unstructured data, and binary data. A data lake can be created on premises or in a cloud-based environment using the services from Cloud computing public cloud vendors such as Amazon, Microsoft, or Google.
