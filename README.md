@@ -19,7 +19,7 @@ This is typically the starting point and requires understanding of Business from
 Logical Modelling as it relates to Analytics Engineering involves modelling of business processes and entities.
 
 ### Warehouse Modelling
-This requires modelling of actual storage structures depending on the Warehousing Modelling methodology being implemented. For e.g. [[Data vault modeling]] will require defining the HUB, LINKS and Satellite to reflect the Business.
+This requires modelling of actual storage structures depending on the Warehousing Modelling methodology being implemented. For e.g. Data vault modeling will require defining the HUB, LINKS and Satellite to reflect the Business.
 
 ## Storage
 Data is stored in a variety of ways, one of the key deciding factors is in how the data will be used. Data engineers optimize data storage and processing systems to reduce costs. They use data compression, partitioning, and archiving.
