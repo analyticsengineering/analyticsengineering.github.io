@@ -8,7 +8,9 @@
 # What is Analytics Engineering?
 Analytics Engineering sits at the intersection of Business, Data Analysis and Data Engineering. It is responsible for bringing modeled, robust, efficient, and integrated data products to life. A practitioner of Analytics Engineering interfaces with the Business and collects Business Requirements and then models the data in the Data Warehouse to reflect the Business. Once the data is modeled in the Data Warehouse they are responsible for bringing the data to Information Mart, which then is consumed by Data Analysts and Business Intelligence team to produce Charts and Dashboard as per business requirements.
 
-Data Engineers aim to understand how the data is stored in the source systems, and how and what to extract. They build data pipelines to make that happend. Analytics engineers, on the other hand, aim to understand how the data is going to be used (they use it themselves or are able to serve the business directly) and they make sure the data meets a certain standard of quality and regularly revise it.
+## Data Engineers vs. Analytics Engineers
+
+Data Engineers aim to understand how the data is stored in the source systems, and how and what to extract. They build data pipelines to make that happend. Analytics engineers, on the other hand, aim to understand how the data is going to be used (they use it themselves or are able to serve the business directly) and they make sure the data meets a certain standard of quality and regularly revise it. In addition to building well modelled and analyst-friendly Information Mart tables, Analytics Engineers implement a comprehensive set of data quality checks to ensure the accuracy, business relevancy and timeliness of the data.
 
 # Tools
 An Analytics Engineer is not responsible for extraction of the data from the source systems. That is usually handled by Data Engineering team. As such, tools that are used by Analytics Engineers are more geared towards Business Requirement collection, Data Modelling and Data Warehousing 
