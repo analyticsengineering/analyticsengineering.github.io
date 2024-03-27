@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Tue Mar 26 13:46:21 UTC 2024*  
+**Ending:** *Wed Mar 27 13:23:48 UTC 2024*  
 
-**Messages:** 27
+**Messages:** 28
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -65,13 +65,15 @@
 *Ali, Saqib*
 * [[Wranglers] Webinar: Designing the Business Vault. Key Strategies for Effective Data Organization](000026.html)
 *Ali, Saqib*
+* [[Wranglers] Microsoft's Fabric Analytics Engineer Associate Certification is now GA](000027.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Tue Mar 26 13:46:21 UTC 2024*  
+*Wed Mar 27 13:23:48 UTC 2024*  
 
-**Archived on:** *Tue Mar 26 13:46:37 UTC 2024*
+**Archived on:** *Wed Mar 27 13:24:03 UTC 2024*
 
 
 
