@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Mon Mar 25 13:51:25 UTC 2024*  
+**Ending:** *Tue Mar 26 13:46:21 UTC 2024*  
 
-**Messages:** 26
+**Messages:** 27
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -63,13 +63,15 @@
 *Ali, Saqib*
 * [[Wranglers] Calculating Geometric Mean using SQL](000025.html)
 *Ali, Saqib*
+* [[Wranglers] Webinar: Designing the Business Vault. Key Strategies for Effective Data Organization](000026.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Mon Mar 25 13:51:25 UTC 2024*  
+*Tue Mar 26 13:46:21 UTC 2024*  
 
-**Archived on:** *Mon Mar 25 13:51:42 UTC 2024*
+**Archived on:** *Tue Mar 26 13:46:37 UTC 2024*
 
 
 
