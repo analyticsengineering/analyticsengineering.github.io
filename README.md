@@ -5,6 +5,7 @@
 |2024:| 	[Thread](/2024/thread.html), [Subject](/2024/subject.html), [Author](/2024/author.html), or [Date](/2024/date.html)| [Subscribe to Analytics Engineering Mailing List](https://analyticsengineering.net/mailman/listinfo/wranglers)|
 
 
+# What is Analytics Engineering?
 Analytics Engineering sits at the intersection of Business, Data Analysis and Data Engineering. It is responsible for bringing modeled, robust, efficient, and integrated data products to life. A practitioner of Analytics Engineering interfaces with the Business and collects Business Requirements and then models the data in the Data Warehouse to reflect the Business. Once the data is modeled in the Data Warehouse they are responsible for bringing the data to Information Mart, which then is consumed by Data Analysts and Business Intelligence team to produce Charts and Dashboard as per business requirements
 
 # Tools
