@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Wed Mar 27 13:23:48 UTC 2024*  
+**Ending:** *Thu Mar 28 04:22:52 UTC 2024*  
 
-**Messages:** 28
+**Messages:** 30
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -67,13 +67,17 @@
 *Ali, Saqib*
 * [[Wranglers] Microsoft's Fabric Analytics Engineer Associate Certification is now GA](000027.html)
 *Ali, Saqib*
+* [[Wranglers] Datavault4dbt v 1.3.0 now available](000028.html)
+*Ali, Saqib*
+* [[Wranglers] NULL-safe GREATEST and LEAST now available in Snowflake](000029.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Wed Mar 27 13:23:48 UTC 2024*  
+*Thu Mar 28 04:22:52 UTC 2024*  
 
-**Archived on:** *Wed Mar 27 13:24:03 UTC 2024*
+**Archived on:** *Thu Mar 28 04:23:08 UTC 2024*
 
 
 
