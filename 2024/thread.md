@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Thu Mar 28 13:43:49 UTC 2024*  
+**Ending:** *Mon Apr 1 13:37:21 UTC 2024*  
 
-**Messages:** 31
+**Messages:** 33
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -72,14 +72,17 @@
 * [[Wranglers] NULL-safe GREATEST and LEAST now available in Snowflake](000029.html)
 *Ali, Saqib*
 	+ [[Wranglers] NULL-safe GREATEST and LEAST now available in Snowflake](000030.html)
-	*Ali, Saqib*
+	*Ali, Saqib** [[Wranglers] Data Quality checks in Snowflake using Data Metric Functions](000031.html)
+*Ali, Saqib*
+* [[Wranglers] Snowflake Tag-based masking policies in DBT](000032.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Thu Mar 28 13:43:49 UTC 2024*  
+*Mon Apr 1 13:37:21 UTC 2024*  
 
-**Archived on:** *Thu Mar 28 13:44:04 UTC 2024*
+**Archived on:** *Mon Apr 1 13:37:37 UTC 2024*
 
 
 
