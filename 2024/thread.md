@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Tue Apr 2 22:36:06 UTC 2024*  
+**Ending:** *Fri Apr 5 01:55:38 UTC 2024*  
 
-**Messages:** 36
+**Messages:** 37
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -81,13 +81,15 @@
 *Ali, Saqib*
 * [[Wranglers] Choosing the Right Case Insensitive Collation in Snowflake: A Deep Dive into Upper and Lower Collations](000035.html)
 *Ali, Saqib*
+* [[Wranglers] 2024 State of Analytics Engineering Webinar](000036.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Tue Apr 2 22:36:06 UTC 2024*  
+*Fri Apr 5 01:55:38 UTC 2024*  
 
-**Archived on:** *Tue Apr 2 22:36:21 UTC 2024*
+**Archived on:** *Fri Apr 5 01:55:55 UTC 2024*
 
 
 
