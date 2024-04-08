@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Sun Apr 7 20:55:33 UTC 2024*  
+**Ending:** *Mon Apr 8 03:58:11 UTC 2024*  
 
-**Messages:** 38
+**Messages:** 39
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -85,13 +85,15 @@
 *Ali, Saqib*
 * [[Wranglers] Data Observability in Snowflake using the SNOWFLAKE.ACCOUNT\_USAGE schema](000037.html)
 *Ali, Saqib*
+* [[Wranglers] BigQuery data clean rooms now generally available](000038.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Sun Apr 7 20:55:33 UTC 2024*  
+*Mon Apr 8 03:58:11 UTC 2024*  
 
-**Archived on:** *Sun Apr 7 20:55:48 UTC 2024*
+**Archived on:** *Mon Apr 8 03:58:26 UTC 2024*
 
 
 
