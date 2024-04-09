@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Mon Apr 8 03:58:11 UTC 2024*  
+**Ending:** *Tue Apr 9 03:55:24 UTC 2024*  
 
-**Messages:** 39
+**Messages:** 41
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -87,13 +87,17 @@
 *Ali, Saqib*
 * [[Wranglers] BigQuery data clean rooms now generally available](000038.html)
 *Ali, Saqib*
+* [[Wranglers] Partitioning in Google BigQuery and dbt Incremental models](000039.html)
+*Ali, Saqib*
+* [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000040.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Mon Apr 8 03:58:11 UTC 2024*  
+*Tue Apr 9 03:55:24 UTC 2024*  
 
-**Archived on:** *Mon Apr 8 03:58:26 UTC 2024*
+**Archived on:** *Tue Apr 9 03:55:39 UTC 2024*
 
 
 
