@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Tue Apr 9 03:55:24 UTC 2024*  
+**Ending:** *Thu Apr 11 17:20:03 UTC 2024*  
 
-**Messages:** 41
+**Messages:** 42
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -91,13 +91,15 @@
 *Ali, Saqib*
 * [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000040.html)
 *Ali, Saqib*
+	+ [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000041.html)
+	*Ali, Saqib*
 
 
 
 **Last message date:**
-*Tue Apr 9 03:55:24 UTC 2024*  
+*Thu Apr 11 17:20:03 UTC 2024*  
 
-**Archived on:** *Tue Apr 9 03:55:39 UTC 2024*
+**Archived on:** *Thu Apr 11 17:20:19 UTC 2024*
 
 
 
