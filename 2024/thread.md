@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Thu Apr 11 17:20:03 UTC 2024*  
+**Ending:** *Mon Apr 15 12:23:08 UTC 2024*  
 
-**Messages:** 42
+**Messages:** 45
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -61,7 +61,8 @@
 	+ [[Wranglers] New Table Function RANGE\_SESSIONIZE in Google BigQuery](000023.html)
 	*Ali, Saqib** [[Wranglers] DBT Contracts and model versioning](000024.html)
 *Ali, Saqib*
-* [[Wranglers] Calculating Geometric Mean using SQL](000025.html)
+	+ [[Wranglers] DBT Contracts and model versioning](000042.html)
+	*Ali, Saqib** [[Wranglers] Calculating Geometric Mean using SQL](000025.html)
 *Ali, Saqib*
 * [[Wranglers] Webinar: Designing the Business Vault. Key Strategies for Effective Data Organization](000026.html)
 *Ali, Saqib*
@@ -92,14 +93,17 @@
 * [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000040.html)
 *Ali, Saqib*
 	+ [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000041.html)
-	*Ali, Saqib*
+	*Ali, Saqib** [[Wranglers] Cost Attribution Tagging in Snowflake](000043.html)
+*Ali, Saqib*
+* [[Wranglers] Versioning Data Contracts](000044.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Thu Apr 11 17:20:03 UTC 2024*  
+*Mon Apr 15 12:23:08 UTC 2024*  
 
-**Archived on:** *Thu Apr 11 17:20:19 UTC 2024*
+**Archived on:** *Mon Apr 15 12:23:25 UTC 2024*
 
 
 
