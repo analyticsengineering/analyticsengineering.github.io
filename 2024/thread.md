@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Mon Apr 15 12:23:08 UTC 2024*  
+**Ending:** *Wed Apr 17 00:57:56 UTC 2024*  
 
-**Messages:** 45
+**Messages:** 47
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -97,13 +97,17 @@
 *Ali, Saqib*
 * [[Wranglers] Versioning Data Contracts](000044.html)
 *Ali, Saqib*
+* [[Wranglers] Helsinki Data Week is being planned for Oct 2024](000045.html)
+*Ali, Saqib*
+* [[Wranglers] GenAI and Data Vault](000046.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Mon Apr 15 12:23:08 UTC 2024*  
+*Wed Apr 17 00:57:56 UTC 2024*  
 
-**Archived on:** *Mon Apr 15 12:23:25 UTC 2024*
+**Archived on:** *Wed Apr 17 00:58:11 UTC 2024*
 
 
 
