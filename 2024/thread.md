@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Wed Apr 17 00:57:56 UTC 2024*  
+**Ending:** *Wed Apr 17 14:50:45 UTC 2024*  
 
-**Messages:** 47
+**Messages:** 51
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -88,12 +88,15 @@
 *Ali, Saqib*
 * [[Wranglers] BigQuery data clean rooms now generally available](000038.html)
 *Ali, Saqib*
-* [[Wranglers] Partitioning in Google BigQuery and dbt Incremental models](000039.html)
+	+ [[Wranglers] BigQuery data clean rooms now generally available](000047.html)
+	*Ali, Saqib** [[Wranglers] Partitioning in Google BigQuery and dbt Incremental models](000039.html)
 *Ali, Saqib*
 * [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000040.html)
 *Ali, Saqib*
 	+ [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000041.html)
-	*Ali, Saqib** [[Wranglers] Cost Attribution Tagging in Snowflake](000043.html)
+	*Ali, Saqib*
+		- [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000050.html)
+		*Ali, Saqib** [[Wranglers] Cost Attribution Tagging in Snowflake](000043.html)
 *Ali, Saqib*
 * [[Wranglers] Versioning Data Contracts](000044.html)
 *Ali, Saqib*
@@ -101,13 +104,17 @@
 *Ali, Saqib*
 * [[Wranglers] GenAI and Data Vault](000046.html)
 *Ali, Saqib*
+* [[Wranglers] Graduate programs in Analytics Engineering](000048.html)
+*Ali, Saqib*
+* [[Wranglers] Scalefree Webinar: How to Design the Business Vault](000049.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Wed Apr 17 00:57:56 UTC 2024*  
+*Wed Apr 17 14:50:45 UTC 2024*  
 
-**Archived on:** *Wed Apr 17 00:58:11 UTC 2024*
+**Archived on:** *Wed Apr 17 14:51:03 UTC 2024*
 
 
 
