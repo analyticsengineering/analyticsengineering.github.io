@@ -37,4 +37,4 @@ If the data is structured and online analytical processing is required (but not 
 A data lake is a centralized repository for storing, processing, and securing large volumes of data. A data lake can contain structured data from Relational database, semi-structured data, unstructured data, and binary data. A data lake can be created on premises or in a cloud-based environment using the services from Cloud computing public cloud vendors such as Amazon, Microsoft, or Google.
 
 # See also
-1. [What is Analytics Engineering](what-is-analytics-engineering.md)
+1. [What is Analytics Engineering?](what-is-analytics-engineering.md)
