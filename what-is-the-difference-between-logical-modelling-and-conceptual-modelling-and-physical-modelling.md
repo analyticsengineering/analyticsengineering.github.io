@@ -3,16 +3,16 @@
 The differences between Conceptual Modeling, Logical Modeling, and Physical Modeling are as follows:
 
 ## Conceptual Modeling
-- Focuses on capturing the high-level concepts, entities, and relationships within a domain or problem space.
-- Represents the real-world entities, attributes, and relationships relevant to the domain, independent of any specific implementation details.
+- Focuses on capturing the high-level concepts, entities, and relationships as it relates to business.
+- Represents the real-world entities, attributes, and relationships relevant to the business, independent of any specific implementation details.
 - Uses concepts and notations that are closer to the business language and terminologies, such as Entity-Relationship (ER) diagrams or UML class diagrams.
-- Provides a shared understanding of the problem domain among stakeholders, developers, and end-users.
+- Provides a shared understanding of the domain among stakeholders, developers, and end-users.
 - Serves as a foundation for the logical and physical design phases.
 
 ## Logical Modeling
 - Focuses on representing the structure and constraints of data required for a specific implementation, such as a database or software system.
 - Defines the logical data structures, relationships, and integrity constraints based on the conceptual model.
-- Incorporates implementation-specific details and design decisions, such as data types, keys, and normalization rules.
+- Incorporates implementation-specific details and design decisions, such as data types, primary keys, foreign keys, grain, and normalization rules.
 - Uses more technical terminology and concepts related to the target implementation platform or technology.
 - Commonly uses techniques like relational data models, object-oriented models, or dimensional models (for data warehouses).
 - Serves as a blueprint for the physical implementation of databases, software applications, or other systems.
