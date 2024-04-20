@@ -1,6 +1,6 @@
 # What is the difference between Logical Modeling and Conceptual Modeling and Physical Modeling?
 
-The differences between conceptual modeling, logical modeling, and physical modeling are as follows:
+The differences between Conceptual Modeling, Logical Modeling, and Physical Modeling are as follows:
 
 ## Conceptual Modeling
 - Focuses on capturing the high-level concepts, entities, and relationships within a domain or problem space.
