@@ -6,13 +6,16 @@ Some key aspects of analytics engineering include:
 
 
 ## Data Modeling
-From [Conceptual Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#conceptual-modeling) to [Logical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#logical-modeling) to [Physical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#physical-modeling). Designing and implementing data models that support efficient data storage, retrieval, and analysis.
+Analytics Engineering is responsible for [Conceptual Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#conceptual-modeling) to [Logical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#logical-modeling) to [Physical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#physical-modeling). Designing and implementing data models that support efficient data storage, retrieval, and analysis.
 
 ## Data Pipelines
-Developing robust and scalable data pipelines to transform Raw Data from various sources into Modelled Data to create a unified data platform for analysis.
+Developing robust and scalable data pipelines to transform Raw Data from various sources into Modeled Data to create a unified data platform for analysis.
 
 ## Data Quality 
 Implementing processes and tools to monitor and ensure the quality, consistency, and integrity of data throughout its lifecycle. Applying software testing methodologies and monitoring tools to data pipelines and analytics processes to ensure reliability and catch issues early.
+
+## Data Contracts
+While Analytics Engineer are not responsible for defining the Data Contracts, they are responsible for enforcing the Data Contracts on the Transformed and Modeled data.
 
 ## Productionization
 Packaging and deploying data analytics solutions as reusable, scalable, and maintainable products or services.
