@@ -18,11 +18,10 @@ The differences between Conceptual Modeling, Logical Modeling, and Physical Mode
 - Serves as a blueprint for the physical implementation of databases, software applications, or other systems.
 
 ## Physical Modeling
-- Focuses on the actual implementation details and technical specifications required to create the physical database or system.
-- Represents the physical storage structures, file organizations, indexing mechanisms, and access paths for data.
+- Focuses on the actual implementation details and technical specifications required to create the physical database or system. 
+- Represents the physical storage structures, file organizations, indexing mechanisms, and access paths for data. For e.g. in case of a Data Vault, this will involve defining the HUB, LINKs, Satellites.
 - Incorporates low-level details specific to the database management system (DBMS) or platform being used, such as table spaces, partitioning schemes, and storage parameters.
 - Considers performance optimization techniques, such as indexing strategies, clustering, and denormalization.
-- Defines the physical deployment architecture, including hardware, network, and storage configurations.
 - Serves as the final blueprint for creating and deploying the actual database or system implementation.
 
 In summary, conceptual modeling captures the high-level domain concepts, logical modeling defines the logical data structures and constraints based on the conceptual model, and physical modeling specifies the low-level implementation details and technical configurations for the actual deployment of the database or system.
