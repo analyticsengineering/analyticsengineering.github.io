@@ -38,3 +38,4 @@ A data lake is a centralized repository for storing, processing, and securing la
 
 # See also
 1. [What is Analytics Engineering?](what-is-analytics-engineering.md)
+2. [What does an Analytics Engineer do?](what-does-an-analytics-engineering-do.md)
