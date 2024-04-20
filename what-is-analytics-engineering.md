@@ -6,7 +6,7 @@ Some key aspects of analytics engineering include:
 
 
 ## Data Modeling
-From [Conceptual Modelling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#conceptual-modeling) to Logical Modelling to Physical Modelling. Designing and implementing data models that support efficient data storage, retrieval, and analysis.
+From [Conceptual Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#conceptual-modeling) to [Logical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#logical-modeling) to [Physical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#physical-modeling). Designing and implementing data models that support efficient data storage, retrieval, and analysis.
 
 ## Data Pipelines
 Developing robust and scalable data pipelines to transform Raw Data from various sources into Modelled Data to create a unified data platform for analysis.
