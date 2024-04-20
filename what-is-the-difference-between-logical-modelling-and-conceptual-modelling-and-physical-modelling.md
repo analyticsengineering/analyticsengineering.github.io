@@ -1,4 +1,4 @@
-# What is the difference between logical modeling and conceptual modeling and physical modeling
+# What is the difference between logical modeling and conceptual modeling and physical modeling?
 
 The differences between conceptual modeling, logical modeling, and physical modeling are as follows:
 
