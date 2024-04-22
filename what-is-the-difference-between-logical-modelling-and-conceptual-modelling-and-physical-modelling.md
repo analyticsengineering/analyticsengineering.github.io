@@ -57,6 +57,16 @@ Logical Model example:
 - Serves as a blueprint for the physical implementation of databases, software applications, or other systems.
 
 ## Physical Modeling
+
+```
+hub_customer          hub_order           hub_product     
+┌───────────────┐     ┌──────────────┐    ┌──────────────┐
+│hub_customer_hk│     │hub_order_hk  │    │hub_product_hk│
+│order_key      │     │order_key     │    │product_key   │
+│load_date      │     │load_date     │    │load_date     │
+│record_source  │     │record_source │    │record_source │
+└───────────────┘     └──────────────┘    └──────────────┘
+```
 - Focuses on the actual implementation details and technical specifications required to create the physical database or system. 
 - Represents the physical storage structures, file organizations, indexing mechanisms, and access paths for data. For e.g. in case of a Data Vault, this will involve defining the HUB, LINKs, Satellites.
 - Incorporates low-level details specific to the database management system (DBMS) or platform being used, such as table spaces, partitioning schemes, and storage parameters.
