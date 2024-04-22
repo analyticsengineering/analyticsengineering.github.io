@@ -77,7 +77,20 @@ hub_customer          hub_order           hub_product
                 │hub_product_hk                │                
                 │load_date                     │                
                 │record_source                 │                
-                └──────────────────────────────┘                
+                └───────────────────────────┬──┘                
+                                            │                   
+                                            │                  
+                                            │                   
+                satl_order_customer_product ▼                   
+               ┌───────────────────────────────┐                
+               │link_order_customer_product_hk │                
+               │order_date                     │                
+               │product_quantity               │                
+               │{other descriptive attributes} │                
+               │hashdiff                       │                
+               │load_date                      │                
+               │record_source                  │                
+               └───────────────────────────────┘                                
 ```
 - Focuses on the actual implementation details and technical specifications required to create the physical database or system. 
 - Represents the physical storage structures, file organizations, indexing mechanisms, and access paths for data. For e.g. in case of a Data Vault, this will involve defining the HUB, LINKs, Satellites.
