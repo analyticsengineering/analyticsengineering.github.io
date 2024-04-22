@@ -5,17 +5,20 @@ The differences between [Conceptual Modeling](what-is-the-difference-between-log
 ```ascii
 ══════════════════════════════════════════════════════════════
 Understanding of                                    Understanding of 
-Business        <--------------------------> Data Modeling and
+Business        <-------------------------->       Data Modeling and
 Processes                                           Databases
 ────────────────────────────────────────────────────────────────────── 
 Conceptual                  \  Logical                     \ Physical
 Modeling                    /  Modeling                    / Modeling
 ══════════════════════════════════════════════════════════════════════ 
- __                                                     __                
-/   _  _  _ _ _ |_    _ |   \   |   _  _ . _ _ |   \   |__)|_    _. _ _ | 
-\__(_)| )(_(-|_)|_|_|(_||   /   |__(_)(_)|(_(_||   /   |   | )\/_)|(_(_|| 
-             |                        _/                      /           
-
+╔══════════════════════════════════════════════════════════════════════╗
+║ Understanding of                             Understanding of        ║
+║ Business        <--------------------------> Data Modeling and       ║
+║ Processes                                    Databases               ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Conceptual           \     Logical         \       Physical          ║
+║ Model                /     Modeling        /       Modeling          ║                                                                   
+╚══════════════════════════════════════════════════════════════════════╝
 
 
 ```
