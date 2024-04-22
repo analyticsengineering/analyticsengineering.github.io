@@ -67,7 +67,6 @@ hub_customer          hub_order           hub_product
 │record_source  │     │record_source │    │record_source │      
 └───────────┬───┘     └───────────┬──┘    └───┬──────────┘      
             │                     │           │                 
-            │                     │           │                 
             │                     ▼           │                 
             │    link_order_customer_product  ▼                 
             │   ┌──────────────────────────────┐                
@@ -78,7 +77,6 @@ hub_customer          hub_order           hub_product
                 │load_date                     │                
                 │record_source                 │                
                 └───────────────────────────┬──┘                
-                                            │                   
                                             │                  
                                             │                   
                 satl_order_customer_product ▼                   
