@@ -34,13 +34,13 @@ Concept Modeling example:
 
 ```
 Logical Modeling example:
-                                  ╔════════════════════════════╗
-╔════════════════════════════╗    ║ ORDER                      ║
-║ CUSTOMER                   ║    ╠════════════════════════════╣    ╔═══════════════════════════╗
-╠════════════════════════════╣    ║ ORDER_KEY      Primary Key ║    ║ PRODUCT                   ║
-║ CUSTOMER_KEY   Primary Key ║1──M║ CUSTOMER_KEY   Foreign Key ║    ╠═══════════════════════════╣
-╚════════════════════════════╝    ║ PRODUCT_KEY    Foreign Key ║1──1║ PRODUCT_KEY   Primary Key ║               
-                                  ╚════════════════════════════╝    ╚═══════════════════════════╝
+                         ╔═══════════════════╗
+╔═══════════════════╗    ║ ORDER             ║
+║ CUSTOMER          ║    ╠═══════════════════╣    ╔══════════════════╗
+╠═══════════════════╣    ║ ORDER_KEY      PK ║    ║ PRODUCT          ║
+║ CUSTOMER_KEY   PK ║1──M║ CUSTOMER_KEY   FK ║    ╠══════════════════╣
+╚═══════════════════╝    ║ PRODUCT_KEY    FK ║1──1║ PRODUCT_KEY   PK ║               
+                         ╚═══════════════════╝    ╚══════════════════╝
 
 1. There is 1-to-Many relationship between CUSTOMER and ORDER i.e. a Customer can place several Orders, but an Order can only be tied to a single Customer
 2. There is 1-to-1 relationship between ORDER and PRODUCT i.e. a Single order can only contain one Produce
