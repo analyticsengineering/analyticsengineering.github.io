@@ -1,6 +1,6 @@
 # What is the difference between Logical Modeling and Conceptual Modeling and Physical Modeling?
 
-The differences between [Conceptual Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#conceptual-modeling), [Logical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#logical-modeling) and [Physical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#physical-modeling) are as follows:
+
 
 <pre>
 ╔════════════════════════════════════════════════════════════════╗
@@ -12,9 +12,6 @@ The differences between [Conceptual Modeling](what-is-the-difference-between-log
 ╚════════════════════════════════════════════════════════════════╝
 </pre>
 
-        [Conceptual](test.md) 
-
-[Conceptual](test.md) 
 ## Conceptual Modeling
 - Focuses on capturing the high-level concepts, entities, relationships and processes as it relates to business.
 - Represents the real-world entities, attributes, and relationships relevant to the business, independent of any specific implementation details.
