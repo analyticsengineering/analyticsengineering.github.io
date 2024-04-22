@@ -34,13 +34,13 @@ Concept Modeling example:
 
 ```
 Logical Modeling example:
-                          ╔═══════════════════╗
-╔═══════════════════╗     ║ ORDER             ║
-║ CUSTOMER          ║     ╠═══════════════════╣     ╔══════════════════╗
-╠═══════════════════╣     ║ ORDER_KEY      PK ║     ║ PRODUCT          ║
-║ CUSTOMER_KEY   PK ║1───M║ CUSTOMER_KEY   FK ║     ╠══════════════════╣
-╚═══════════════════╝     ║ PRODUCT_KEY    FK ║1───1║ PRODUCT_KEY   PK ║               
-                          ╚═══════════════════╝     ╚══════════════════╝
+                         ╔═══════════════════╗
+╔═══════════════════╗    ║ ORDER             ║
+║ CUSTOMER          ║    ╠═══════════════════╣    ╔══════════════════╗
+╠═══════════════════╣    ║ ORDER_KEY      PK ║    ║ PRODUCT          ║
+║ CUSTOMER_KEY   PK ║1──M║ CUSTOMER_KEY   FK ║    ╠══════════════════╣
+╚═══════════════════╝    ║ PRODUCT_KEY    FK ║1──1║ PRODUCT_KEY   PK ║               
+                         ╚═══════════════════╝    ╚══════════════════╝
 
 1. There is 1-to-Many relationship between CUSTOMER and ORDER
    i.e. a Customer can place several Orders, but an Order can
