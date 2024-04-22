@@ -7,7 +7,7 @@ The differences between [Conceptual Modeling](what-is-the-difference-between-log
 Understanding of                                    Understanding of 
 Business        <--------------------------> Data Modeling and
 Processes                                           Databases
-═════════════════════════════════════════════════════════════════════ 
+────────────────────────────────────────────────────────────────────── 
 Conceptual                  \  Logical                     \ Physical
 Modeling                    /  Modeling                    / Modeling
 ══════════════════════════════════════════════════════════════════════ 
