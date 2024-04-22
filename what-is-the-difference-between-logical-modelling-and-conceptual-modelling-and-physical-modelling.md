@@ -58,7 +58,8 @@ Logical Model example:
 
 ## Physical Modeling
 
-```                                                                                                                                                                                    Physical Model (Data Vault) example:
+```
+                                                                                                                                                                                Physical Model (Data Vault) example:
                                                                                     
        hub_customer          hub_order           hub_product                                                        
        ┌───────────────┐     ┌──────────────┐    ┌──────────────┐                                                   
@@ -67,7 +68,6 @@ Logical Model example:
        │load_date      │     │load_date     │    │load_date     │                                                   
        │record_source  │     │record_source │    │record_source ├─────┐                                             
        └───────┬───┬───┘     └───────────┬──┘    └───┬──────────┘     │                                             
-               │   │                     │           │                │                                             
                │   │                     │           │                │                                             
                │   │                     ▼           │                │                                             
   sat_customer ▼   │    link_order_customer_product  ▼   sat_product  ▼                                             
