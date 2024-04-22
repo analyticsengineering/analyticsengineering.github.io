@@ -72,7 +72,7 @@ hub_customer          hub_order           hub_product
             │    link_order_customer_product  ▼                 
             │   ┌──────────────────────────────┐                
             └──►│link_order_customer_product_hk│                
-                │hub_order_hk                  │               ▼
+                │hub_order_hk                  │               
                 │hub_customer_hk               │                
                 │hub_product_hk                │                
                 │load_date                     │                
