@@ -17,7 +17,7 @@
 ## Conceptual Modeling
 
 ```
-Concept Modeling example:
+Concept Model example:
 
 ╔══════════╗                           ╔═══════╗
 ║ CUSTOMER ║ ──── Places an order ───> ║ ORDER ║
@@ -33,7 +33,7 @@ Concept Modeling example:
 ## Logical Modeling
 
 ```
-Logical Modeling example:
+Logical Model example:
                          ╔═══════════════════╗
 ╔═══════════════════╗    ║ ORDER             ║
 ║ CUSTOMER          ║    ╠═══════════════════╣    ╔══════════════════╗
