@@ -33,13 +33,18 @@ Concept Modeling example:
 ## Logical Modeling
 
 ```
+Logical Modeling example:
                                   ╔════════════════════════════╗
 ╔════════════════════════════╗    ║ ORDER                      ║
-║ CUSTOMER                   ║    ╠════════════════════════════╣
-╠════════════════════════════╣    ║ ORDER_KEY      Primary Key ║
-║ CUSTOMER_KEY   Primary Key ║───<║ CUSTOMER_KEY   Foreign Key ║
-╚════════════════════════════╝    ║ PRODUCT_KEY    Foreign Key ║               
-                                  ╚════════════════════════════╝
+║ CUSTOMER                   ║    ╠════════════════════════════╣    ╔═══════════════════════════╗
+╠════════════════════════════╣    ║ ORDER_KEY      Primary Key ║    ║ PRODUCT                   ║
+║ CUSTOMER_KEY   Primary Key ║1──M║ CUSTOMER_KEY   Foreign Key ║    ╠═══════════════════════════╣
+╚════════════════════════════╝    ║ PRODUCT_KEY    Foreign Key ║1──1║ PRODUCT_KEY   Primary Key ║               
+                                  ╚════════════════════════════╝    ╚═══════════════════════════╝
+
+1. There is 1-to-Many relationship between CUSTOMER and ORDER i.e. a Customer can place several Orders, but an Order can only be tied to a single Customer
+2. There is 1-to-1 relationship between ORDER and PRODUCT i.e. a Single order can only contain one Produce
+
 ```
 - Focuses on representing the structure and constraints of data required for a specific implementation, such as a database or software system.
 - Defines the logical data structures, relationships, and integrity constraints based on the conceptual model.
