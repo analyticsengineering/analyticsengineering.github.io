@@ -31,6 +31,16 @@ Concept Modeling example:
 - Serves as a foundation for the logical and physical design phases.
 
 ## Logical Modeling
+
+```
+                                        ╔════════════════════════════╗
+╔════════════════════════════╗          ║ ORDER                      ║
+║ CUSTOMER                   ║          ╠════════════════════════════╣
+╠════════════════════════════╣          ║ ORDER_KEY      Primary Key ║
+║ CUSTOMER_KEY   Primary Key ║─────────<║ CUSTOMER_KEY   Foreign Key ║
+╚════════════════════════════╝          ║ PRODUCT_KEY    Foreign Key ║               
+                                        ╚════════════════════════════╝
+```
 - Focuses on representing the structure and constraints of data required for a specific implementation, such as a database or software system.
 - Defines the logical data structures, relationships, and integrity constraints based on the conceptual model.
 - Incorporates implementation-specific details and design decisions, such as data types, primary keys, foreign keys, grain, and normalization rules.
