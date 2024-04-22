@@ -4,7 +4,7 @@
 
 <pre>
 ╔════════════════════════════════════════════════════════════════╗
-║ <a href="https://analyticsengineering.net/mailman/listinfo/wranglers"><b>Analytics Engineering</b></a> <b>Scope</b>                                        ║
+║ <a href="https://analyticsengineering.net/mailman/listinfo/wranglers"><b>Analytics Engineering</b></a> <b>Scope</b>                                  ║
 ╠════════════════════════════════════════════════════════════════╣  
 ║ Understanding of                             Understanding of  ║
 ║ Business        <──────────────────────────> Data Modeling and ║
