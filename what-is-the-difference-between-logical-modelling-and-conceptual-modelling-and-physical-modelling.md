@@ -46,7 +46,7 @@ Logical Model example:
    i.e. a Customer can place several Orders, but an Order can
    only be tied to a single Customer
 2. There is 1-to-1 relationship between ORDER and PRODUCT
-   i.e. a Single order can only contain one Produce
+   i.e. a Single order can only contain one Product
 
 ```
 - Focuses on representing the structure and constraints of data required for a specific implementation, such as a database or software system.
