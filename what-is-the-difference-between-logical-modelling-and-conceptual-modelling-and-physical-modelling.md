@@ -19,9 +19,9 @@
 ```
 Concept Modeling example:
 
-╔══════════╗                           ╔══════════╗
-║ CUSTOMER ║ ──── Places an order ───> ║ CUSTOMER ║
-╚══════════╝                           ╚══════════╝
+╔══════════╗                           ╔═══════╗
+║ CUSTOMER ║ ──── Places an order ───> ║ ORDER ║
+╚══════════╝                           ╚═══════╝
 ```
 
 - Focuses on capturing the high-level concepts, entities, relationships and processes as it relates to business.
