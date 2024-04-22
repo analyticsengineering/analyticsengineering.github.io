@@ -8,7 +8,7 @@
 ║ Business        <──────────────────────────> Data Modeling and ║
 ║ Processes                                    Databases         ║
 ╠════════════════════════════════════════════════════════════════╣
-║ <a href="#conceptual-modeling">Conceptual Modeling</a>  >  <a href="#logical-modeling">Logical Modeling</a>  >  <a href="#physical-modeling">Physical Modeling</a> ║
+║ <a href="#conceptual-modeling"><b>Conceptual Modeling</b></a>  >  <a href="#logical-modeling">Logical Modeling</a>  >  <a href="#physical-modeling">Physical Modeling</a> ║
 ╚════════════════════════════════════════════════════════════════╝
 </pre>
 
