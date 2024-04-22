@@ -3,22 +3,15 @@
 The differences between [Conceptual Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#conceptual-modeling), [Logical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#logical-modeling) and [Physical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#physical-modeling) are as follows:
 
 ```ascii
-══════════════════════════════════════════════════════════════
-Understanding of                                    Understanding of 
-Business        <-------------------------->       Data Modeling and
-Processes                                           Databases
-────────────────────────────────────────────────────────────────────── 
-Conceptual                  \  Logical                     \ Physical
-Modeling                    /  Modeling                    / Modeling
-══════════════════════════════════════════════════════════════════════ 
-╔══════════════════════════════════════════════════════════════════════╗
-║ Understanding of                             Understanding of        ║
-║ Business        <--------------------------> Data Modeling and       ║
-║ Processes                                    Databases               ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ Conceptual           \     Logical         \       Physical          ║
-║ Model                /     Modeling        /       Modeling          ║                                                                   
-╚══════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║ Understanding of                             Understanding of  ║
+║ Business        <--------------------------> Data Modeling and ║
+║ Processes                                    Databases         ║
+╠════════════════════════════════════════════════════════════════╣
+║ Conceptual           \     Logical         \       Physical    ║
+║ Model                /     Modeling        /       Modeling    ║                                                                   
+╚════════════════════════════════════════════════════════════════╝
 
 
 ```
