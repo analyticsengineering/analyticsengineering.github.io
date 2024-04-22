@@ -60,6 +60,7 @@ Logical Model example:
 
 ```
                                                                                                                                                                                 Physical Model (Data Vault) example:
+
                                                                                     
        hub_customer          hub_order           hub_product                                                        
        ┌───────────────┐     ┌──────────────┐    ┌──────────────┐                                                   
