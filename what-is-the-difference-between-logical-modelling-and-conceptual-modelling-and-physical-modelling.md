@@ -59,7 +59,7 @@ Logical Model example:
 ## Physical Modeling
 
 ```
-Physical Model (Data Vault) example:
+Physical Model example (Data Vault):
                                                                                     
        hub_customer          hub_order           hub_product                                                        
        ┌───────────────┐     ┌──────────────┐    ┌──────────────┐                                                   
