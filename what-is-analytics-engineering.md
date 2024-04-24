@@ -32,7 +32,7 @@ While Analytics Engineering is not responsible for defining the Data Contracts, 
                     │ Data Constraints   │                        
                     │ Data Quality       │                        
 ┌──────────┐        │ Data Definitions   │          ┌────────────┐
-│          │Define  │ Data Encoding      │ Implement│                   │
+│          │Define  │ Data Encoding      │ Implement│                       │
 │ Business ├───────►│ Data Structure     │◄─────────┤ <a href="https://analyticsengineering.net/mailman/listinfo/wranglers">Analytics Engineering</a>  │
 │          │Verify  │ Data Types         │ Enforce  │            │
 │          ├───────►│ Data Format        │◄─────────┤            │
