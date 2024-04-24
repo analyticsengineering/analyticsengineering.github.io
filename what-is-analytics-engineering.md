@@ -8,6 +8,18 @@ Some key aspects of analytics engineering include:
 ## Data Modeling
 Analytics Engineering is responsible for [Conceptual Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#conceptual-modeling) to [Logical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#logical-modeling) to [Physical Modeling](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#physical-modeling). Designing and implementing data models that support efficient data storage, retrieval, and analysis.
 
+<pre>
+╔════════════════════════════════════════════════════════════════╗
+║                 <a href="https://analyticsengineering.net/mailman/listinfo/wranglers"><b>Analytics Engineering</b></a> <b>Scope</b>                    ║
+╠════════════════════════════════════════════════════════════════╣  
+║ Understanding of                             Understanding of  ║
+║ Business        <──────────────────────────> Data Modeling and ║
+║ Processes                                    Databases         ║
+╠════════════════════════════════════════════════════════════════╣
+║ <a href="#conceptual-modeling"><b>Conceptual Modeling</b></a>  <b>▶</b>  <a href="#logical-modeling"><b>Logical Modeling</b></a>  <b>▶</b>  <a href="#physical-modeling"><b>Physical Modeling</b></a> ║
+╚════════════════════════════════════════════════════════════════╝
+</pre>
+
 ## Data Pipelines
 Developing robust and scalable data pipelines to transform Raw Data from various sources into Modeled Data to create a unified data platform for analysis.
 
