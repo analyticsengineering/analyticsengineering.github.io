@@ -81,9 +81,9 @@ Physical Model example (Data Vault):
  │load_date      │     └───────────────────────────┬──┘  │load_date      │
  │record_source  │                                 │     │record_source  │
  └───────────────┘                                 │     └───────────────┘
-                                                   │                      
-                       satl_order_customer_product ▼               
-                      ┌───────────────────────────────┐                                                 
+                                                   │
+                       satl_order_customer_product ▼ 
+                      ┌───────────────────────────────┐
                       │link_order_customer_product_hk │
                       │order_date                     │
                       │product_quantity               │
@@ -91,7 +91,7 @@ Physical Model example (Data Vault):
                       │hashdiff                       │
                       │load_date                      │
                       │record_source                  │
-                      └───────────────────────────────┘     
+                      └───────────────────────────────┘
 ```
 - Focuses on the actual implementation details and technical specifications required to create the physical database or system. 
 - Represents the physical storage structures, file organizations, indexing mechanisms, and access paths for data. For e.g. in case of a Data Vault, this will involve defining the HUB, LINKs, Satellites.
