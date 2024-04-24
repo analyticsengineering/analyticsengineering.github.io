@@ -61,37 +61,37 @@ Logical Model example:
 ```
 Physical Model example (Data Vault):
                                                                                     
-       hub_customer          hub_order           hub_product                                                        
-       ┌───────────────┐     ┌──────────────┐    ┌──────────────┐                                                   
-       │hub_customer_hk│     │hub_order_hk  │    │hub_product_hk│                                                   
-       │order_key      │     │order_key     │    │product_key   │                                                  
-       │load_date      │     │load_date     │    │load_date     │                                                   
-       │record_source  │     │record_source │    │record_source ├─────┐                                             
-       └───────┬───┬───┘     └───────────┬──┘    └───┬──────────┘     │                                             
-               │   │                     │           │                │                                             
-               │   │                     ▼           │                │                                             
-  sat_customer ▼   │    link_order_customer_product  ▼   sat_product  ▼                                             
- ┌───────────────┐ │   ┌──────────────────────────────┐  ┌───────────────┐                                          
- │hub_customer_hk│ └──►│link_order_customer_product_hk│  │hub_product_hk │                                          
- │first_name     │     │hub_order_hk                  │  │product_name   │                                          
- │last_name      │     │hub_customer_hk               │  │description    │                                          
- │email          │     │hub_product_hk                │  │cost           │                                          
- │address        │     │load_date                     │  │list_price     │                                          
- │hashdiff       │     │record_source                 │  │hashdiff       │                                          
- │load_date      │     └───────────────────────────┬──┘  │load_date      │                                          
- │record_source  │                                 │     │record_source  │                                          
- └───────────────┘                                 │     └───────────────┘                                          
-                                                   │                                                                
-                       satl_order_customer_product ▼                                                                
-                      ┌───────────────────────────────┐                                                             
-                      │link_order_customer_product_hk │                                                             
-                      │order_date                     │                                                             
-                      │product_quantity               │                                                             
-                      │{other descriptive attributes} │                                                             
-                      │hashdiff                       │                                                             
-                      │load_date                      │                                                             
-                      │record_source                  │                                                             
-                      └───────────────────────────────┘                                                                                          
+       hub_customer          hub_order           hub_product        
+       ┌───────────────┐     ┌──────────────┐    ┌──────────────┐
+       │hub_customer_hk│     │hub_order_hk  │    │hub_product_hk│
+       │order_key      │     │order_key     │    │product_key   │
+       │load_date      │     │load_date     │    │load_date     │
+       │record_source  │     │record_source │    │record_source ├─────┐
+       └───────┬───┬───┘     └───────────┬──┘    └───┬──────────┘     │
+               │   │                     │           │                │
+               │   │                     ▼           │                │
+  sat_customer ▼   │    link_order_customer_product  ▼   sat_product  ▼ 
+ ┌───────────────┐ │   ┌──────────────────────────────┐  ┌───────────────┐
+ │hub_customer_hk│ └──►│link_order_customer_product_hk│  │hub_product_hk │
+ │first_name     │     │hub_order_hk                  │  │product_name   │
+ │last_name      │     │hub_customer_hk               │  │description    │
+ │email          │     │hub_product_hk                │  │cost           │
+ │address        │     │load_date                     │  │list_price     │
+ │hashdiff       │     │record_source                 │  │hashdiff       │
+ │load_date      │     └───────────────────────────┬──┘  │load_date      │
+ │record_source  │                                 │     │record_source  │
+ └───────────────┘                                 │     └───────────────┘
+                                                   │                      
+                       satl_order_customer_product ▼               
+                      ┌───────────────────────────────┐                                                 
+                      │link_order_customer_product_hk │
+                      │order_date                     │
+                      │product_quantity               │
+                      │{other descriptive attributes} │
+                      │hashdiff                       │
+                      │load_date                      │
+                      │record_source                  │
+                      └───────────────────────────────┘     
 ```
 - Focuses on the actual implementation details and technical specifications required to create the physical database or system. 
 - Represents the physical storage structures, file organizations, indexing mechanisms, and access paths for data. For e.g. in case of a Data Vault, this will involve defining the HUB, LINKs, Satellites.
