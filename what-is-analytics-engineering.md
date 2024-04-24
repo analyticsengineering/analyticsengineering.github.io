@@ -14,6 +14,19 @@ Developing robust and scalable data pipelines to transform Raw Data from various
 ## Data Contracts
 While Analytics Engineer are not responsible for defining the Data Contracts, they are responsible for enforcing the Data Contracts on the Transformed and Modeled data.
 
+```
+                    ┌──Data─Contract─────┐                        
+                    │                    │                        
+                    │ Data Constraints   │                        
+                    │ Data Quality       │                        
+┌──────────┐        │ Data Definitions   │          ┌────────────┐
+│          │Define  │ Data Encoding      │ Implement│            │
+│ Business ├───────►│ Data Structure     │◄─────────┤ Analytics  │
+│          │Verify  │ Data Types         │ Enforce  │ Engineering│
+│          ├───────►│ Data Format        │◄─────────┤            │
+└──────────┘        └────────────────────┘          └────────────┘
+```
+
 ### Data Quality 
 Implementing processes and tools to monitor and ensure the quality, consistency, and integrity of data throughout its lifecycle. Applying software testing methodologies and monitoring tools to data pipelines and analytics processes to ensure reliability and catch issues early.
 
