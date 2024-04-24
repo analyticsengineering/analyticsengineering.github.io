@@ -12,7 +12,7 @@ Analytics Engineering is responsible for [Conceptual Modeling](what-is-the-diffe
 Developing robust and scalable data pipelines to transform Raw Data from various sources into Modeled Data to create a unified data platform for analysis.
 
 ## Data Contracts
-While Analytics Engineer are not responsible for defining the Data Contracts, they are responsible for enforcing the Data Contracts on the Transformed and Modeled data.
+While Analytics Engineering is not responsible for defining the Data Contracts, it is responsible for enforcing the Data Contracts on the Transformed and Modeled data.
 
 ```
                     ┌──Data─Contract─────┐                        
