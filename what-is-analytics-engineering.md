@@ -26,15 +26,15 @@ Developing robust and scalable data pipelines to transform Raw Data from various
 ## Data Contracts
 While Analytics Engineering is not responsible for defining the Data Contracts, it is responsible for enforcing the Data Contracts on the Transformed and Modeled data.
 
-```
+<pre></pre>
                     ┌──Data─Contract─────┐                        
                     │                    │                        
                     │ Data Constraints   │                        
                     │ Data Quality       │                        
 ┌──────────┐        │ Data Definitions   │          ┌────────────┐
 │          │Define  │ Data Encoding      │ Implement│            │
-│ Business ├───────►│ Data Structure     │◄─────────┤ Analytics  │
-│          │Verify  │ Data Types         │ Enforce  │ Engineering│
+│ Business ├───────►│ Data Structure     │◄─────────┤ <a href="https://analyticsengineering.net/mailman/listinfo/wranglers">Analytics Engineering  │
+│          │Verify  │ Data Types         │ Enforce  │            │
 │          ├───────►│ Data Format        │◄─────────┤            │
 └──────────┘        └────────────────────┘          └────────────┘
 ```
