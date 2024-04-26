@@ -46,7 +46,7 @@ A data lake is a centralized repository for storing, processing, and securing la
 <ul id="recent-articles">
     {% for page in site.pages limit:10 %}
         <li>
-        <a class="post-link" href="{{ page.url | relative_url }}" title="{{ page.description }}">{{ page.title | escape }}</a>
+        <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
         </li>
     {% endfor %}
 </ul> 
