@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Wed Apr 24 13:31:03 UTC 2024*  
+**Ending:** *Thu Apr 25 21:27:56 UTC 2024*  
 
-**Messages:** 53
+**Messages:** 54
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 * [[Wranglers] re-using column properties in DBT yml files](000001.html)
@@ -111,13 +111,15 @@
 *Ali, Saqib*
 * [[Wranglers] SQL User Defined Aggregate Functions are now available in Google BigQuery!](000052.html)
 *Ali, Saqib*
+	+ [[Wranglers] SQL User Defined Aggregate Functions are now available in Google BigQuery!](000053.html)
+	*Ali, Saqib*
 
 
 
 **Last message date:**
-*Wed Apr 24 13:31:03 UTC 2024*  
+*Thu Apr 25 21:27:56 UTC 2024*  
 
-**Archived on:** *Wed Apr 24 13:31:18 UTC 2024*
+**Archived on:** *Thu Apr 25 21:28:13 UTC 2024*
 
 
 
