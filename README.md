@@ -41,3 +41,13 @@ A data lake is a centralized repository for storing, processing, and securing la
 2. [What does an Analytics Engineer do?](what-does-an-analytics-engineering-do.md)
 3. [Are Analytics Engineers in Demand?](are-analytics-engineers-in-demand.md)
 4. [What is the difference between logical modeling and conceptual modeling and physical modeling?](what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md)
+
+
+<ul id="recent-articles">
+    {% for page in site.pages limit:10 %}
+        <li>
+        <a class="post-link" href="{{ page.url | relative_url }}" title="{{ page.description }}">{{ page.title | escape }}</a>
+        </li>
+    {% endfor %}
+</ul> 
+
