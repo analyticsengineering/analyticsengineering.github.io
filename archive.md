@@ -1,6 +1,7 @@
-
+<ul id="recent-articles">
 {% for page in site.pages %}
-    <p>
+    <li>
     <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
-    </p>
+    </li>
 {% endfor %}
+</ul>
