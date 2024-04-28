@@ -30,7 +30,7 @@ Concept Model example:
 - Provides a shared understanding of the domain among stakeholders, developers, and end-users.
 - Serves as a foundation for the logical and physical design phases.
 
->  Note: Conceptual Models are always business specific. There is nothing like a reference Conceptual Model
+>  Note: Conceptual Models are always business specific. There is nothing like a "reference Conceptual Model".
 
 ### Sample Conceptual Model 
 
