@@ -16,7 +16,7 @@ Analytics Engineering is responsible for [Conceptual Modeling](what-is-the-diffe
 ║ Business        <──────────────────────────> Data Modeling and ║
 ║ Processes                                    Databases         ║
 ╠════════════════════════════════════════════════════════════════╣
-║ <a href="what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#conceptual-modeling"><b>Conceptual Modeling</b></a>  <b>▶</b>  <a href="what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#logical-modeling"><b>Logical Modeling</b></a>  <b>▶</b>  <a href="what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.md#physical-modeling"><b>Physical Modeling</b></a> ║
+║ <a href="what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.html#conceptual-modeling"><b>Conceptual Modeling</b></a>  <b>▶</b>  <a href="what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.html#logical-modeling"><b>Logical Modeling</b></a>  <b>▶</b>  <a href="what-is-the-difference-between-logical-modelling-and-conceptual-modelling-and-physical-modelling.html#physical-modeling"><b>Physical Modeling</b></a> ║
 ╚════════════════════════════════════════════════════════════════╝
 </pre>
 
