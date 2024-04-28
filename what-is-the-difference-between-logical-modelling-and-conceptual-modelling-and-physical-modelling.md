@@ -23,7 +23,7 @@ Concept Model example:
 ║ CUSTOMER ║ ──── Places an order ───> ║ ORDER ║
 ╚══════════╝                           ╚═══════╝
 ```
-- Conceptual model or ontology defines the business objects and their relationship to each other.
+- Conceptual model or _ontology_ defines the business objects and their relationship to each other.
 - Focuses on capturing the high-level concepts, entities, relationships and processes as it relates to business.
 - Represents the real-world entities, attributes, and relationships relevant to the business, independent of any specific implementation details.
 - Uses concepts and notations that are closer to the business language and terminologies, such as Entity-Relationship (ER) diagrams or UML class diagrams.
