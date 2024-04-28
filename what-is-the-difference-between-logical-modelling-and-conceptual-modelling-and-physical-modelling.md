@@ -30,7 +30,7 @@ Concept Model example:
 - Provides a shared understanding of the domain among stakeholders, developers, and end-users.
 - Serves as a foundation for the logical and physical design phases.
 
-## Sample Conceptual Model 
+### Sample Conceptual Model 
 
 ```
                                                          ┌─────┐     
