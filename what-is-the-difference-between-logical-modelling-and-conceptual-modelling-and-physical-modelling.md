@@ -30,6 +30,30 @@ Concept Model example:
 - Provides a shared understanding of the domain among stakeholders, developers, and end-users.
 - Serves as a foundation for the logical and physical design phases.
 
+
+```
+                                                          ┌─────┐     
+                                                          │Quote│     
+                                                          └──┬──┘     
+                                                             │        
+                                                             │        
+                                                         belongs to   
+                                                             │        
+                                                             ▼        
+┌───────┐                      ┌───────┐                ┌───────────┐
+│Contact├───associated─with───►│Account│◄──belongs─to───┤Opportunity│
+└───┬───┘                      └───────┘                └────┬──────┘
+    │                               ▲                        │        
+    │                               │                        │        
+potential to become              belongs to               turns to     
+    │                               │                        │        
+    ▼                               │                        ▼        
+ ┌──────┐                       ┌───┴────┐                ┌─────┐     
+ │ Lead ├─potential─to─become──►│Customer│                │Order│     
+ └──────┘                       └────────┘                └─────┘     
+```
+
+
 ## Logical Modeling
 
 ```
