@@ -32,25 +32,24 @@ Concept Model example:
 
 
 ```
-                                                          ┌─────┐     
-                                                          │Quote│     
-                                                          └──┬──┘     
-                                                             │        
-                                                             │        
-                                                         belongs to   
-                                                             │        
-                                                             ▼        
-┌───────┐                      ┌───────┐                ┌───────────┐
-│Contact├───associated─with───►│Account│◄──belongs─to───┤Opportunity│
-└───┬───┘                      └───────┘                └────┬──────┘
-    │                               ▲                        │        
-    │                               │                        │        
-potential to become              belongs to               turns to     
-    │                               │                        │        
-    ▼                               │                        ▼        
- ┌──────┐                       ┌───┴────┐                ┌─────┐     
- │ Lead ├─potential─to─become──►│Customer│                │Order│     
- └──────┘                       └────────┘                └─────┘     
+                                                         ┌─────┐     
+                                                         │Quote│     
+                                                         └──┬──┘     
+                                                            │        
+                                                        belongs to   
+                                                            │        
+                                                            ▼        
+┌───────┐                      ┌───────┐               ┌───────────┐
+│Contact├───associated─with───►│Account│◄──belongs─to──┤Opportunity│
+└───┬───┘                      └───────┘               └────┬──────┘
+    │                               ▲                       │        
+    │                               │                       │        
+potential to become              belongs to              turns to     
+    │                               │                       │        
+    ▼                               │                       ▼        
+ ┌──────┐                       ┌───┴────┐               ┌─────┐     
+ │ Lead ├─potential─to─become──►│Customer│               │Order│     
+ └──────┘                       └────────┘               └─────┘     
 ```
 
 
