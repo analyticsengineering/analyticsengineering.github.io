@@ -125,6 +125,6 @@ Physical Model example (Data Vault):
 - Considers performance optimization techniques, such as indexing strategies, clustering, and denormalization.
 - Serves as the final blueprint for creating and deploying the actual database or system implementation.
 
-In summary, [conceptual modeling](#conceptual-modeling) captures the high-level domain concepts, logical modeling defines the logical data structures and constraints based on the conceptual model, and physical modeling specifies the low-level implementation details and technical configurations for the actual deployment of the database or system.
+In summary, [conceptual modeling](#conceptual-modeling) captures the high-level domain concepts, [logical modeling](#logical-modeling) defines the logical data structures and constraints based on the conceptual model, and [physical modeling](#physical-modeling) specifies the low-level implementation details and technical configurations for the actual deployment of the database or system.
 
 The progression from conceptual to logical to physical modeling ensures a systematic and structured approach to system design, facilitating communication, maintainability, and the ability to adapt to changing requirements or technologies.
