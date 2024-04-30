@@ -32,7 +32,9 @@ Concept Model example:
 
 >  Note: Conceptual Models are always business specific. There is nothing like a "reference Conceptual Model".
 
-### Sample Conceptual Model 
+### Sample Conceptual Models
+
+#### Sales Opportunity and Sales Order Conceptual Model
 
 ```
                                                          ┌─────┐     
