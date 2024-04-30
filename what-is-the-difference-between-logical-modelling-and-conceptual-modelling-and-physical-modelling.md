@@ -136,7 +136,7 @@ In summary, [conceptual modeling](#conceptual-modeling) captures the high-level 
 | [Physical](#physical-modeling)     | Low                   | Data storage and retrieval, and optimization thereof | Neither Hardware and Software |
 
 
-| Feature                         | Conceptual Model | Logical Model | Physical Model |
+|                                 | Conceptual Model | Logical Model | Physical Model |
 |---------------------------------|------------------|---------------|----------------|
 | Entity Names                    | ✅               | ✅            |                |
 | Entity Relationships            | ✅               | ✅            |                |
