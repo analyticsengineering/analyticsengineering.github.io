@@ -127,4 +127,10 @@ Physical Model example (Data Vault):
 
 In summary, [conceptual modeling](#conceptual-modeling) captures the high-level domain concepts, [logical modeling](#logical-modeling) defines the logical data structures and constraints based on the conceptual model, and [physical modeling](#physical-modeling) specifies the low-level implementation details and technical configurations for the actual deployment of the database or system.
 
+| Model      | Degree of Abstraction | Focus                                           | Independent of                |
+|------------|-----------------------|-------------------------------------------------|-------------------------------|
+| Conceptual | High                  | Global View of the Business                     | Hardware and Software         |
+| Logical    |                       | Database Model                                  |                               |
+| Physical   | Low                   | Storage and retrieval, and optimization thereof | Neither Hardware and Software |
+
 The progression from conceptual to logical to physical modeling ensures a systematic and structured approach to system design, facilitating communication, maintainability, and the ability to adapt to changing requirements or technologies.
