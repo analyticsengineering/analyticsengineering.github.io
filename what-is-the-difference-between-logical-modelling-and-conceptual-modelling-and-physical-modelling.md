@@ -131,8 +131,25 @@ In summary, [conceptual modeling](#conceptual-modeling) captures the high-level 
 
 | Model                              | Degree of Abstraction | Focus                                                | Independent of                |
 |------------------------------------|-----------------------|------------------------------------------------------|-------------------------------|
-| [Conceptual](#conceptual-modeling) | High                  | Global View of the Business                          | Hardware and Software         |
+| [Conceptual](#conceptual-modeling) | High                  | Global View of the Business, Business Entities and their relationship                          | Hardware and Software         |
 | [Logical](#logical-modeling)       |                       | ER Model                                             |                               |
 | [Physical](#physical-modeling)     | Low                   | Data storage and retrieval, and optimization thereof | Neither Hardware and Software |
+
+
+| Feature                         | Conceptual Model | Logical Model | Physical Model |
+|---------------------------------|------------------|---------------|----------------|
+| Entity Names                    | ✅               | ✅            |                |
+| Entity Relationships            | ✅               | ✅            |                |
+| Referential Integrity           |                  | ✅            |                |
+| Business Keys                   |                  | ✅            |                |
+| Primary Keys                    |                  | ✅            | ✅             |
+| Foreign Keys                    |                  | ✅            | ✅             |
+| Descriptive Attributes          |                  |               | ✅             |
+| Table Names                     |                  |               | ✅             |
+| Naming Convention               |                  |               | ✅             |
+| Column Data Types               |                  |               | ✅             |
+| Constraints                     |                  |               | ✅             |
+| Normalization / Denormalization |                  |               | ✅             |
+
 
 The progression from conceptual to logical to physical modeling ensures a systematic and structured approach to system design, facilitating communication, maintainability, and the ability to adapt to changing requirements or technologies.
