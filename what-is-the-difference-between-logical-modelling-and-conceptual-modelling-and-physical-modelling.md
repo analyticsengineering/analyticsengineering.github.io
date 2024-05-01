@@ -131,9 +131,9 @@ In summary, [conceptual modeling](#conceptual-modeling) captures the high-level 
 
 | Model                              | Degree of Abstraction | Focus                                                | Independent of                |
 |------------------------------------|-----------------------|------------------------------------------------------|-------------------------------|
-| [Conceptual](#conceptual-modeling) | High                  | Global View of the Business, Business Entities and their relationship                          | Hardware and Software         |
+| [Conceptual](#conceptual-modeling) | High                  | Global View of the Business, Business Entities and their relationship                          | Storage and Compute         |
 | [Logical](#logical-modeling)       |                       | ER Model                                             |                               |
-| [Physical](#physical-modeling)     | Low                   | Data storage and retrieval, and optimization thereof | Neither Hardware and Software |
+| [Physical](#physical-modeling)     | Low                   | Data storage and retrieval, and optimization thereof | Neither Storage nor Compute |
 
 
 |                                 | Conceptual Model | Logical Model | Physical Model |
