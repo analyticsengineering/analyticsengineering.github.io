@@ -152,6 +152,7 @@ In summary, [conceptual modeling](#conceptual-modeling) captures the high-level 
 | Column Data Types               |                  |               | ✅             |
 | Constraints                     |                  |               | ✅             |
 | Normalization / Denormalization |                  |               | ✅             |
+| Optimization / Query Assist     |                  |               | ✅             |
 
 
 The progression from conceptual to logical to physical modeling ensures a systematic and structured approach to system design, facilitating communication, maintainability, and the ability to adapt to changing requirements or technologies.
