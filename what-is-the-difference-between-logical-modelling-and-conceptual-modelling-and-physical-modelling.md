@@ -57,26 +57,29 @@ potential to become              belongs to              turns to
  └──────┘                       └────────┘               └─────┘     
 ```
 
-#### Classic Library Example
+#### Classic Library Borrowing Example
 
 ```
-                            ┌─────requests────────┐        
-                            │                     │        
-                            │                     │        
-                            │                     │        
-                            ▼                     │        
-┌─────────┐              ┌─────┐           ┌──────┴───────┐
-│librarian├─looks─after─►│items│◄─borrows──┤library patron│
-└─────────┘              └─────┘           └──────────────┘
-                            ▲                              
-                            │                              
-                     ┌──────┴───────┐                      
-                     │              │                      
-                  type of       type of                      
-                     │              │                      
-                ┌────┴──────┐   ┌───┴────┐                 
-                │ microfilm │   │ books  │                 
-                └───────────┘   └────────┘                 
+                      ┌─────requests────────┐        
+                      │                     │        
+                      │                     │        
+                      │                     │        
+                      ▼                     │        
+┌─────────┐        ┌─────┐           ┌──────┴───────┐
+│librarian├─lends─►│items│◄─borrows──┤library patron│
+└─────────┘        └─────┘           └──────────────┘
+                      ▲                              
+                      │                              
+               ┌──────┴───────┐                      
+               │              │                      
+           type of       type of                      
+               │              │
+          ┌────┴──────┐   ┌───┴────┐
+          │ microfilm │   │ books  │                 
+          └───────────┘   └────────┘
+
+In this example microfil and books are
+subtype (subclass) of items.       
                                                     
 ```
 
