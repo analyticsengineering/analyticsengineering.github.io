@@ -77,8 +77,9 @@ potential to become              belongs to              turns to
                 ┌────┴──────┐   ┌───┴────┐                 
                 │ microfilm │   │ books  │                 
                 └───────────┘   └────────┘                 
-                                                    ▼      
+                                                    
 ```
+
 
 ## Logical Modeling
 
@@ -143,6 +144,7 @@ Physical Model example (Data Vault):
                       │record_source                  │
                       └───────────────────────────────┘
 ```
+
 - Focuses on the actual implementation details and technical specifications required to create the physical database or system. 
 - Represents the physical storage structures, file organizations, indexing mechanisms, and access paths for data. For e.g. in case of a Data Vault, this will involve defining the HUB, LINKs, Satellites.
 - Incorporates low-level details specific to the database management system (DBMS) or platform being used, such as table spaces, partitioning schemes, and storage parameters.
