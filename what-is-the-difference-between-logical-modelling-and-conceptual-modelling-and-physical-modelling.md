@@ -58,6 +58,27 @@ potential to become              belongs to              turns to
 ```
 
 
+```
+                            ┌─────requests────────┐        
+                            │                     │        
+                            │                     │        
+                            │                     │        
+                            ▼                     │        
+┌─────────┐              ┌─────┐           ┌──────┴───────┐
+│librarian├─looks─after─►│items│◄─borrows──┤library patron│
+└─────────┘              └─────┘           └──────────────┘
+                            ▲                              
+                            │                              
+                     ┌──────┴───────┐                      
+                     │              │                      
+                  type of       type of                      
+                     │              │                      
+                ┌────┴──────┐   ┌───┴────┐                 
+                │ microfilm │   │ books  │                 
+                └───────────┘   └────────┘                 
+                                                    ▼      
+```
+
 ## Logical Modeling
 
 ```
