@@ -115,6 +115,8 @@ Logical Model example:
 
 ## Physical Modeling
 
+The model that details the database artefacts required to create relationships between tables, such as indexes, constraints, links and partitions.
+
 ```
 Physical Model example (Data Vault):
                                                                                     
