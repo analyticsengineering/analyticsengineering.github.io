@@ -15,7 +15,7 @@
 </pre>
 
 ## Conceptual Modeling
-A high-level description of information needs that typically includes only the main concepts and the main relationships among them
+A high-level description of information needs that typically includes only the main concepts and the main relationships among them.
 
 <pre>
 Concept Model example:
