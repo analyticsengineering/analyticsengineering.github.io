@@ -86,6 +86,8 @@ subtype (subclass) of items.
 
 ## Logical Modeling
 
+A data model of a specific domain expressed in terms of data structures such as relational tables and columns.
+
 ```
 Logical Model example:
                          ╔═══════════════════╗
