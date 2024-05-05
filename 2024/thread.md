@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Wed May 1 14:13:31 UTC 2024*  
+**Ending:** *Sat May 4 04:51:08 UTC 2024*  
 
-**Messages:** 58
+**Messages:** 59
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
@@ -119,13 +119,15 @@
 		- [[Wranglers] SQL User Defined Aggregate Functions are now available in Google BigQuery!](000055.html)
 		*Ali, Saqib** [[Wranglers] User Defined Aggregate Functions (UDAF) in Snowflake?](000057.html)
 *Ali, Saqib*
+* [[Wranglers] Workshop: Implementing Data Contracts](000058.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Wed May 1 14:13:31 UTC 2024*  
+*Sat May 4 04:51:08 UTC 2024*  
 
-**Archived on:** *Wed May 1 14:13:47 UTC 2024*
+**Archived on:** *Sat May 4 04:51:24 UTC 2024*
 
 
 
