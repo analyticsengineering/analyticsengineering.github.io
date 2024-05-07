@@ -15,7 +15,7 @@
 </pre>
 
 ## Conceptual Modeling
-A high-level description of information needs that typically includes only the main concepts and the main relationships among them.
+A high-level description of information needs that typically includes only the main concepts and the main relationships among them. Offers a clear and accessible representation using common and shared business terminology, enabling effective communication among stakeholders, 
 
 <pre>
 Concept Model example:
@@ -107,7 +107,7 @@ Logical Model example:
 
 ```
 - Focuses on representing the structure and constraints of data required for a specific implementation, such as a database or software system.
-- Defines the logical data structures, relationships, and integrity constraints based on the conceptual model.
+- Defines the logical data structures, relationships, and integrity constraints based on the conceptual model. Relationships are elucidated in greater detail, incorporating specifics such as primary keys, foreign keys, and the hierarchical dependencies inherent in parent-child entity types. See afforementioned example model.
 - Incorporates implementation-specific details and design decisions, such as data types, primary keys, foreign keys, grain, and normalization rules.
 - Uses more technical terminology and concepts related to the target implementation platform or technology.
 - Commonly uses techniques like relational data models, object-oriented models, or dimensional models (for data warehouses).
