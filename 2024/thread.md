@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Sat May 4 04:51:08 UTC 2024*  
+**Ending:** *Tue May 7 15:49:32 UTC 2024*  
 
-**Messages:** 59
+**Messages:** 61
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
@@ -99,6 +99,8 @@
 		- [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000050.html)
 		*Ali, Saqib*
 			* [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000056.html)
+			*Ali, Saqib*
+			* [[Wranglers] Data Quality Monitoring using Data Metric Functions Snowflake](000059.html)
 			*Ali, Saqib** [[Wranglers] Cost Attribution Tagging in Snowflake](000043.html)
 *Ali, Saqib*
 * [[Wranglers] Versioning Data Contracts](000044.html)
@@ -121,13 +123,15 @@
 *Ali, Saqib*
 * [[Wranglers] Workshop: Implementing Data Contracts](000058.html)
 *Ali, Saqib*
+* [[Wranglers] One Big Table vs. Dimensional Modeling](000060.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Sat May 4 04:51:08 UTC 2024*  
+*Tue May 7 15:49:32 UTC 2024*  
 
-**Archived on:** *Sat May 4 04:51:24 UTC 2024*
+**Archived on:** *Tue May 7 15:49:50 UTC 2024*
 
 
 
