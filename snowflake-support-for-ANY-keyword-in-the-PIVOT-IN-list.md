@@ -1,4 +1,4 @@
-# ANY keyword in the Snowflake's PIVOT in-clause
+# ANY keyword in the Snowflake's PIVOT IN list
 
 ## Using ANY keyword
 ```sql
