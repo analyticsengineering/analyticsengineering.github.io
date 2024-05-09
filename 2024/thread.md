@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Tue May 7 15:49:32 UTC 2024*  
+**Ending:** *Thu May 9 01:03:46 UTC 2024*  
 
-**Messages:** 61
+**Messages:** 63
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
@@ -125,13 +125,17 @@
 *Ali, Saqib*
 * [[Wranglers] One Big Table vs. Dimensional Modeling](000060.html)
 *Ali, Saqib*
+* [[Wranglers] Support for ANY keyword in the Snowflake’s PIVOT IN list](000061.html)
+*Ali, Saqib*
+* [[Wranglers] Using MATCH\_RECOGNIZE in Snowflake to detect schema changes in source tables](000062.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Tue May 7 15:49:32 UTC 2024*  
+*Thu May 9 01:03:46 UTC 2024*  
 
-**Archived on:** *Tue May 7 15:49:50 UTC 2024*
+**Archived on:** *Thu May 9 01:04:01 UTC 2024*
 
 
 
