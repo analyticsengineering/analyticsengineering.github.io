@@ -15,7 +15,7 @@
 </pre>
 
 ## Conceptual Modeling
-A high-level description of information needs that typically includes only the main concepts and the main relationships among them. Offers a clear and accessible representation using common and shared business terminology, enabling effective communication among stakeholders, 
+A high-level description of information needs that typically includes only the main concepts and the main relationships among them. Offers a clear and accessible representation using common and shared business terminology, enabling effective communication among stakeholders. Conceptual Model define what business information and process currently exist. 
 
 <pre>
 Concept Model example:
@@ -87,7 +87,7 @@ subtype (subclass) of items.
 
 ## Logical Modeling
 
-A data model of a specific domain expressed in terms of data structures such as relational tables and columns.
+A data model of a specific domain expressed in terms of data structures such as relational tables and columns geared towards a particular usecase or purpose (e.g. building a Customer Profile).
 
 ```
 Logical Model example:
