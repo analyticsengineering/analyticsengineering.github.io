@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Thu May 9 01:03:46 UTC 2024*  
+**Ending:** *Fri May 10 15:53:19 UTC 2024*  
 
-**Messages:** 63
+**Messages:** 66
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
@@ -121,21 +121,25 @@
 		- [[Wranglers] SQL User Defined Aggregate Functions are now available in Google BigQuery!](000055.html)
 		*Ali, Saqib** [[Wranglers] User Defined Aggregate Functions (UDAF) in Snowflake?](000057.html)
 *Ali, Saqib*
-* [[Wranglers] Workshop: Implementing Data Contracts](000058.html)
+	+ [[Wranglers] User Defined Aggregate Functions (UDAF) in Snowflake?](000064.html)
+	*Ali, Saqib** [[Wranglers] Workshop: Implementing Data Contracts](000058.html)
 *Ali, Saqib*
 * [[Wranglers] One Big Table vs. Dimensional Modeling](000060.html)
 *Ali, Saqib*
 * [[Wranglers] Support for ANY keyword in the Snowflake’s PIVOT IN list](000061.html)
 *Ali, Saqib*
-* [[Wranglers] Using MATCH\_RECOGNIZE in Snowflake to detect schema changes in source tables](000062.html)
+	+ [[Wranglers] Support for ANY keyword in the Snowflake’s PIVOT IN list](000063.html)
+	*Ali, Saqib** [[Wranglers] Using MATCH\_RECOGNIZE in Snowflake to detect schema changes in source tables](000062.html)
+*Ali, Saqib*
+* [[Wranglers] Snowflake now supports Higher-order Functions (Lambda Expressions)](000065.html)
 *Ali, Saqib*
 
 
 
 **Last message date:**
-*Thu May 9 01:03:46 UTC 2024*  
+*Fri May 10 15:53:19 UTC 2024*  
 
-**Archived on:** *Thu May 9 01:04:01 UTC 2024*
+**Archived on:** *Fri May 10 15:53:35 UTC 2024*
 
 
 
