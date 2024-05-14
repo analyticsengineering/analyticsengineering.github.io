@@ -10,13 +10,15 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Sun May 12 00:10:04 UTC 2024*  
+**Ending:** *Mon May 13 20:57:25 UTC 2024*  
 
-**Messages:** 67
+**Messages:** 68
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
-	*Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000001.html)
+	*Ali, Saqib*
+		- [[Wranglers] Snowflake now has support for ASOF Joins](000067.html)
+		*Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000001.html)
 *Ali, Saqib*
 	+ [[Wranglers] re-using column properties in DBT yml files](000002.html)
 	*Ali, Saqib** [[Wranglers] dbt and Data Vault 2.0 Course by Scalefree](000003.html)
@@ -139,9 +141,9 @@
 
 
 **Last message date:**
-*Sun May 12 00:10:04 UTC 2024*  
+*Mon May 13 20:57:25 UTC 2024*  
 
-**Archived on:** *Sun May 12 00:10:18 UTC 2024*
+**Archived on:** *Mon May 13 20:57:41 UTC 2024*
 
 
 
