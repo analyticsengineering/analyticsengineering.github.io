@@ -10,15 +10,17 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Mon May 13 20:57:25 UTC 2024*  
+**Ending:** *Tue May 14 21:48:51 UTC 2024*  
 
-**Messages:** 68
+**Messages:** 70
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
 	*Ali, Saqib*
 		- [[Wranglers] Snowflake now has support for ASOF Joins](000067.html)
-		*Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000001.html)
+		*Ali, Saqib*
+			* [[Wranglers] Snowflake now has support for ASOF Joins](000068.html)
+			*Ali, Saqib** [[Wranglers] re-using column properties in DBT yml files](000001.html)
 *Ali, Saqib*
 	+ [[Wranglers] re-using column properties in DBT yml files](000002.html)
 	*Ali, Saqib** [[Wranglers] dbt and Data Vault 2.0 Course by Scalefree](000003.html)
@@ -137,13 +139,15 @@
 *Ali, Saqib*
 * [[Wranglers] Snowflake now supports Higher-order Functions (Lambda Expressions)](000065.html)
 *Ali, Saqib*
+	+ [[Wranglers] Snowflake now supports Higher-order Functions (Lambda Expressions)](000069.html)
+	*Ali, Saqib*
 
 
 
 **Last message date:**
-*Mon May 13 20:57:25 UTC 2024*  
+*Tue May 14 21:48:51 UTC 2024*  
 
-**Archived on:** *Mon May 13 20:57:41 UTC 2024*
+**Archived on:** *Tue May 14 21:49:07 UTC 2024*
 
 
 
