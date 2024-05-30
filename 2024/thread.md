@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Thu May 16 00:37:59 UTC 2024*  
+**Ending:** *Wed May 29 22:30:53 UTC 2024*  
 
-**Messages:** 72
+**Messages:** 75
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
@@ -132,7 +132,8 @@
 	+ [[Wranglers] User Defined Aggregate Functions (UDAF) in Snowflake?](000064.html)
 	*Ali, Saqib** [[Wranglers] Workshop: Implementing Data Contracts](000058.html)
 *Ali, Saqib*
-* [[Wranglers] One Big Table vs. Dimensional Modeling](000060.html)
+	+ [[Wranglers] Workshop: Implementing Data Contracts](000072.html)
+	*Ali, Saqib** [[Wranglers] One Big Table vs. Dimensional Modeling](000060.html)
 *Ali, Saqib*
 * [[Wranglers] Support for ANY keyword in the Snowflake’s PIVOT IN list](000061.html)
 *Ali, Saqib*
@@ -144,13 +145,17 @@
 	+ [[Wranglers] Snowflake now supports Higher-order Functions (Lambda Expressions)](000069.html)
 	*Ali, Saqib** [[Wranglers] Snowflake Access History: 8 ways to audit your account](000071.html)
 *Ali, Saqib*
+* [[Wranglers] Send Email OR Send Snowflake Notification? Which one to use when?](000073.html)
+*Ali, Saqib*
+* [[Wranglers] Snowflake UDAFs with Apache DataSketches](000074.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Thu May 16 00:37:59 UTC 2024*  
+*Wed May 29 22:30:53 UTC 2024*  
 
-**Archived on:** *Thu May 16 00:38:14 UTC 2024*
+**Archived on:** *Wed May 29 22:31:08 UTC 2024*
 
 
 
