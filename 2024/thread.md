@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Mon Jun 3 20:26:06 UTC 2024*  
+**Ending:** *Mon Jun 10 04:02:00 UTC 2024*  
 
-**Messages:** 80
+**Messages:** 81
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
@@ -159,13 +159,15 @@
 *Ali, Saqib*
 * [[Wranglers] How to Parse & Flatten XML in Snowflake? – With Examples](000079.html)
 *Ali, Saqib*
+* [[Wranglers] dbt snapshots as a first class citizen](000080.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Mon Jun 3 20:26:06 UTC 2024*  
+*Mon Jun 10 04:02:00 UTC 2024*  
 
-**Archived on:** *Mon Jun 3 20:26:22 UTC 2024*
+**Archived on:** *Mon Jun 10 04:02:15 UTC 2024*
 
 
 
