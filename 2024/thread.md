@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Tue Jun 11 03:54:41 UTC 2024*  
+**Ending:** *Wed Jun 12 04:11:46 UTC 2024*  
 
-**Messages:** 82
+**Messages:** 83
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
@@ -163,13 +163,15 @@
 *Ali, Saqib*
 * [[Wranglers] dbt snapshots as a first class citizen](000080.html)
 *Ali, Saqib*
+	+ [[Wranglers] dbt snapshots as a first class citizen](000082.html)
+	*Ali, Saqib*
 
 
 
 **Last message date:**
-*Tue Jun 11 03:54:41 UTC 2024*  
+*Wed Jun 12 04:11:46 UTC 2024*  
 
-**Archived on:** *Tue Jun 11 03:54:57 UTC 2024*
+**Archived on:** *Wed Jun 12 04:12:01 UTC 2024*
 
 
 
