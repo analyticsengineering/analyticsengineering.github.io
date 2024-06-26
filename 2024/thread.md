@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Fri Jun 21 18:55:38 UTC 2024*  
+**Ending:** *Tue Jun 25 17:29:24 UTC 2024*  
 
-**Messages:** 84
+**Messages:** 85
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
@@ -166,13 +166,15 @@
 	+ [[Wranglers] dbt snapshots as a first class citizen](000082.html)
 	*Ali, Saqib** [[Wranglers] JSON is now a first class citizen in Azure SQL Server](000083.html)
 *Ali, Saqib*
+* [[Wranglers] Snowflake now supports Variable Binding in Queries using TO\_QUERY()](000084.html)
+*Ali, Saqib*
 
 
 
 **Last message date:**
-*Fri Jun 21 18:55:38 UTC 2024*  
+*Tue Jun 25 17:29:24 UTC 2024*  
 
-**Archived on:** *Fri Jun 21 18:55:56 UTC 2024*
+**Archived on:** *Tue Jun 25 17:29:40 UTC 2024*
 
 
 
