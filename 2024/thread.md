@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Mon Jul 8 14:06:25 UTC 2024*  
+**Ending:** *Thu Jul 11 17:36:27 UTC 2024*  
 
-**Messages:** 86
+**Messages:** 87
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
@@ -170,13 +170,15 @@
 *Ali, Saqib*
 * [[Wranglers] Snowflake now supports RANGE Clause in Window Functions](000085.html)
 *Ali, Saqib*
+	+ [[Wranglers] Snowflake now supports RANGE Clause in Window Functions](000086.html)
+	*Ali, Saqib*
 
 
 
 **Last message date:**
-*Mon Jul 8 14:06:25 UTC 2024*  
+*Thu Jul 11 17:36:27 UTC 2024*  
 
-**Archived on:** *Mon Jul 8 14:06:41 UTC 2024*
+**Archived on:** *Thu Jul 11 17:36:42 UTC 2024*
 
 
 
