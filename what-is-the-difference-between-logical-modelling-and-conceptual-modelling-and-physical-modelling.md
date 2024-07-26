@@ -31,7 +31,8 @@ Concept Model example:
 - Provides a shared understanding of the domain among stakeholders, developers, and end-users.
 - Serves as a foundation for the logical and physical design phases.
 
->  Note: Conceptual Models are always business specific. There is nothing like a "reference Conceptual Model".
+> Note: Conceptual Models are always business specific. There is nothing like a "reference Conceptual Model".
+> Note: Application of conceptual modeling plus attribute binding to standard terminologies ensures that context and meaning are retained to guarantee a high degree of semantic interoperability within various business systems, significantly improving data quality. 
 
 ### Sample Conceptual Models
 
