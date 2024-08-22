@@ -10,9 +10,9 @@
 
 **Starting:** *Sat Mar 2 21:48:20 UTC 2024*  
 
-**Ending:** *Sun Jul 28 22:43:42 UTC 2024*  
+**Ending:** *Wed Aug 21 18:50:57 UTC 2024*  
 
-**Messages:** 88
+**Messages:** 89
 * [[Wranglers] Snowflake now has support for ASOF Joins](000000.html)
 *Ali, Saqib*
 	+ [[Wranglers] Snowflake now has support for ASOF Joins](000054.html)
@@ -138,7 +138,9 @@
 	+ [[Wranglers] User Defined Aggregate Functions (UDAF) in Snowflake?](000064.html)
 	*Ali, Saqib*
 		- [[Wranglers] User Defined Aggregate Functions (UDAF) in Snowflake?](000078.html)
-		*Ali, Saqib** [[Wranglers] Workshop: Implementing Data Contracts](000058.html)
+		*Ali, Saqib*
+			* [[Wranglers] User Defined Aggregate Functions (UDAF) in Snowflake?](000088.html)
+			*Ali, Saqib** [[Wranglers] Workshop: Implementing Data Contracts](000058.html)
 *Ali, Saqib*
 	+ [[Wranglers] Workshop: Implementing Data Contracts](000072.html)
 	*Ali, Saqib** [[Wranglers] One Big Table vs. Dimensional Modeling](000060.html)
@@ -178,9 +180,9 @@
 
 
 **Last message date:**
-*Sun Jul 28 22:43:42 UTC 2024*  
+*Wed Aug 21 18:50:57 UTC 2024*  
 
-**Archived on:** *Sun Jul 28 22:43:58 UTC 2024*
+**Archived on:** *Wed Aug 21 18:51:12 UTC 2024*
 
 
 
